@@ -70,12 +70,14 @@ python3 tools/extract_slides.py extract 你的文件.pdf --clear
 ```bash
 cd parasite-slide-learn
 git init
-git branch -M main
 git add .
-git commit -m "Initial commit: 形态学识图静态站"
+git commit -m "Initial commit: morphology study site"
+git branch -M main
 git remote add origin https://github.com/<你的用户名>/<仓库名>.git
 git push -u origin main
 ```
+
+若本机 `git commit -m "..."` 报错，可改用：`printf 'Initial commit\n' | git commit -F -`
 
 将 `<你的用户名>`、`<仓库名>` 换成实际值。若使用 SSH，把 `remote` 地址改为 `git@github.com:用户名/仓库名.git`。
 
