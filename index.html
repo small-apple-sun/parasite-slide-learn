@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>形态学识图</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <h1 class="topbar-title">形态学识图</h1>
+      <div class="topbar-toggles">
+        <label class="toggle">
+          <input type="checkbox" id="randomMode" />
+          <span>随机下一张</span>
+        </label>
+        <label class="toggle">
+          <input type="checkbox" id="quizMode" />
+          <span>测验模式</span>
+        </label>
+        <label class="toggle">
+          <input type="checkbox" id="reviewOnly" />
+          <span>仅复习不会的</span>
+        </label>
+        <label class="toggle">
+          <input type="checkbox" id="soundOn" checked />
+          <span>音效</span>
+        </label>
+      </div>
+    </header>
+
+    <main class="main">
+      <p id="loadError" class="load-error hidden" role="alert"></p>
+      <div id="app" class="app hidden">
+        <div class="search-bar">
+          <label class="search-label" for="deckSearch">关键词</label>
+          <input
+            type="search"
+            id="deckSearch"
+            class="search-input"
+            placeholder="如：肝吸虫、红细胞…"
+            autocomplete="off"
+            enterkeyhint="search"
+          />
+          <button type="button" class="btn btn-search-clear" id="btnSearchClear" title="清空筛选">
+            清空
+          </button>
+        </div>
+        <p id="reviewEmpty" class="review-empty hidden" role="status">
+          当前没有「不会的」题。取消勾选「仅复习不会的」，或在全集中对题目点「不会」加入复习本。
+        </p>
+        <p id="searchEmpty" class="review-empty search-empty hidden" role="status">
+          没有符合关键词的题目。可换个词试试，或点「清空」显示全部。
+        </p>
+        <p class="meta">
+          <span id="counter">0 / 0</span>
+          <span
+            id="streakBadge"
+            class="streak-badge hidden"
+            aria-live="polite"
+            title="本次打开页面后连续「会了」的次数"
+          ></span>
+          <span class="stats" id="stats" aria-live="polite"></span>
+        </p>
+
+        <article class="slide" id="slide" aria-live="polite">
+          <header class="slide-header">
+            <div class="slide-brand" id="slideBrand"></div>
+          </header>
+
+          <div class="slide-main-row">
+            <div class="slide-image-col">
+              <div class="slide-image-frame" id="cardImageWrap">
+                <img id="cardImage" src="" alt="" class="slide-image" />
+                <p class="slide-watermark" id="slideWatermark"></p>
+              </div>
+              <p class="slide-prompt" id="slidePrompt"></p>
+            </div>
+            <aside
+              class="slide-answer-aside"
+              id="slideAnswerAside"
+              aria-label="题号与答案"
+            >
+              <div class="slide-title-wrap">
+                <h2 class="slide-title" id="slideTitle">
+                  <span class="slide-id" id="slideId"></span>
+                  <span class="slide-name" id="slideName"></span>
+                </h2>
+              </div>
+              <div class="slide-extra hidden" id="slideExtra">
+                <p class="slide-scientific hidden" id="slideScientific"></p>
+                <p class="slide-notes hidden" id="slideNotes"></p>
+              </div>
+            </aside>
+          </div>
+
+          <footer class="slide-footer">
+            <p class="slide-slogan" id="slideSlogan"></p>
+          </footer>
+        </article>
+
+        <div class="actions" id="appActions">
+          <button type="button" class="btn primary" id="btnReveal">显示答案</button>
+          <div class="know-row">
+            <button type="button" class="btn btn-know-yes" id="btnKnow" title="快捷键 K">
+              会了
+            </button>
+            <button type="button" class="btn btn-know-no" id="btnNotKnow" title="快捷键 N">
+              不会
+            </button>
+          </div>
+          <div class="nav-row">
+            <button type="button" class="btn" id="btnPrev" title="上一张（←）">上一张</button>
+            <button type="button" class="btn" id="btnNext" title="下一张（→）">下一张</button>
+            <button type="button" class="btn" id="btnRandom" title="随机一张（R）">随机</button>
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <div id="toast" class="toast hidden" role="status" aria-live="polite"></div>
+
+    <footer class="page-footer">
+      <p>
+        顶部<strong>关键词</strong>可筛选题目（题号、名称、题干等；多个词用空格表示都要包含）。<strong>Esc</strong>
+        清空筛选。测验模式：隐藏题号与名称，点图或空格显示答案。方向键翻页，<strong>K</strong> 会了、<strong>N</strong>
+        不会。双击离线打开需先运行
+        <code>python3 tools/embed_slides.py</code> 生成 <code>data/slides.embed.js</code>。
+      </p>
+    </footer>
+
+    <script src="app.js"></script>
+  </body>
+</html>

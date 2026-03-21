@@ -1,0 +1,8 @@
+# 由 slides.json 生成；分享 zip / 本地 file:// 前请运行 python3 tools/embed_slides.py
+# （部署到 GitHub Pages 时走 HTTPS，只需提交 slides.json，可不提交此文件）
+data/slides.embed.js
+
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

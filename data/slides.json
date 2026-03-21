@@ -1,0 +1,3410 @@
+[
+  {
+    "id": "2021102",
+    "title": "~2021104为同一患者骨髓涂片简要病历：女，56岁，反复口腔溃疡、咽痛2年，乏力加重2个月就诊。WBC 4.55×10^9/L，Hb81g/L，PLT 22×10^9/L。2021102为瑞氏-吉姆萨染色请报告箭头所指细胞的名称",
+    "image": "assets/images/2021102.jpg",
+    "prompt": "2021104环形铁粒幼红细胞"
+  },
+  {
+    "id": "2021105",
+    "title": "和2021106为同一患者骨髓涂片均为瑞氏-吉姆萨染色。请分别报告箭头所指细胞的名称",
+    "image": "assets/images/2021105.jpg",
+    "prompt": "2021105类/巨幼变红细胞"
+  },
+  {
+    "id": "2021105",
+    "title": "和2021106为同一患者骨髓涂片均为瑞氏-吉姆萨染色。请分别报告箭头所指细胞的名称",
+    "image": "assets/images/2021105.jpg",
+    "prompt": "2021106巨（中性）晚幼粒细胞"
+  },
+  {
+    "id": "2021107",
+    "title": "裂片红细胞",
+    "image": "assets/images/2021107.jpg",
+    "prompt": "99"
+  },
+  {
+    "id": "2021108",
+    "title": "泪滴形红细胞",
+    "image": "assets/images/2021108.jpg",
+    "prompt": "202110细胞有丝分裂相"
+  },
+  {
+    "id": "2021109",
+    "title": "血小板聚集",
+    "image": "assets/images/2021109.jpg",
+    "prompt": "请报告箭头所指现象的名称"
+  },
+  {
+    "id": "202110",
+    "title": "细胞有丝分裂相",
+    "image": "assets/images/202110.jpg",
+    "prompt": "请报告箭头所指细胞所处的阶段"
+  },
+  {
+    "id": "auto_0001",
+    "title": "透明管型( hyaline cast)",
+    "image": "assets/images/auto_0001.jpg",
+    "prompt": "101"
+  },
+  {
+    "id": "auto_0002",
+    "title": "透明管型( hyaline cast)",
+    "image": "assets/images/auto_0002.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0003",
+    "title": "透明管型( hyaline cast)",
+    "image": "assets/images/auto_0003.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0004",
+    "title": "透明管型( hyaline cast)",
+    "image": "assets/images/auto_0004.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0005",
+    "title": "透明管型( hyaline cast)",
+    "image": "assets/images/auto_0005.jpg",
+    "prompt": "102"
+  },
+  {
+    "id": "auto_0006",
+    "title": "透明管型( hyaline cast)",
+    "image": "assets/images/auto_0006.jpg",
+    "prompt": "红细胞管型( cellular cast)"
+  },
+  {
+    "id": "auto_0007",
+    "title": "红细胞管型",
+    "image": "assets/images/auto_0007.jpg",
+    "prompt": "• 上皮细胞管型:在透明管型的基础上,内含有不同程度的肾小管上皮细胞,正常人没有此种管型。如果尿中出现此种管型则提示急性肾小管坏死。肾脏淀粉样变性,重金属或化学物质中毒、急性肾小球肾炎、肾梗死等情况。"
+  },
+  {
+    "id": "auto_0008",
+    "title": "红细胞管型",
+    "image": "assets/images/auto_0008.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0009",
+    "title": "红细胞管型",
+    "image": "assets/images/auto_0009.jpg",
+    "prompt": "104"
+  },
+  {
+    "id": "auto_0010",
+    "title": "红细胞管型",
+    "image": "assets/images/auto_0010.jpg",
+    "prompt": "白细胞管型"
+  },
+  {
+    "id": "auto_0011",
+    "title": "红细胞管型",
+    "image": "assets/images/auto_0011.jpg",
+    "prompt": "白细胞管型"
+  },
+  {
+    "id": "auto_0012",
+    "title": "白细胞管型",
+    "image": "assets/images/auto_0012.jpg",
+    "prompt": "105"
+  },
+  {
+    "id": "auto_0013",
+    "title": "白细胞管型",
+    "image": "assets/images/auto_0013.jpg",
+    "prompt": "105"
+  },
+  {
+    "id": "auto_0014",
+    "title": "白细胞管型",
+    "image": "assets/images/auto_0014.jpg",
+    "prompt": "上皮细胞管型"
+  },
+  {
+    "id": "auto_0015",
+    "title": "白细胞管型",
+    "image": "assets/images/auto_0015.jpg",
+    "prompt": "上皮细胞管型"
+  },
+  {
+    "id": "auto_0016",
+    "title": "上皮细胞管型",
+    "image": "assets/images/auto_0016.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0017",
+    "title": "上皮细胞管型",
+    "image": "assets/images/auto_0017.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0018",
+    "title": "上皮细胞管型",
+    "image": "assets/images/auto_0018.jpg",
+    "prompt": "颗粒管型( granular cast)"
+  },
+  {
+    "id": "auto_0019",
+    "title": "上皮细胞管型",
+    "image": "assets/images/auto_0019.jpg",
+    "prompt": "颗粒管型( granular cast)"
+  },
+  {
+    "id": "auto_0020",
+    "title": "颗粒管型( granular cast)",
+    "image": "assets/images/auto_0020.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0021",
+    "title": "颗粒管型( granular cast)",
+    "image": "assets/images/auto_0021.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0022",
+    "title": "颗粒管型( granular cast)",
+    "image": "assets/images/auto_0022.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0023",
+    "title": "颗粒管型( granular cast)",
+    "image": "assets/images/auto_0023.jpg",
+    "prompt": "108"
+  },
+  {
+    "id": "auto_0024",
+    "title": "颗粒管型( granular cast)",
+    "image": "assets/images/auto_0024.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0025",
+    "title": "颗粒管型( granular cast)",
+    "image": "assets/images/auto_0025.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0026",
+    "title": "颗粒管型( granular cast)",
+    "image": "assets/images/auto_0026.jpg",
+    "prompt": "109"
+  },
+  {
+    "id": "auto_0027",
+    "title": "颗粒管型( granular cast)",
+    "image": "assets/images/auto_0027.jpg",
+    "prompt": "109"
+  },
+  {
+    "id": "auto_0028",
+    "title": "颗粒管型( granular cast)",
+    "image": "assets/images/auto_0028.jpg",
+    "prompt": "蜡样管型( waxy cast)"
+  },
+  {
+    "id": "auto_0029",
+    "title": "蜡样管型( waxy cast)",
+    "image": "assets/images/auto_0029.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0030",
+    "title": "蜡样管型( waxy cast)",
+    "image": "assets/images/auto_0030.jpg",
+    "prompt": "110"
+  },
+  {
+    "id": "auto_0031",
+    "title": "蜡样管型( waxy cast)",
+    "image": "assets/images/auto_0031.jpg",
+    "prompt": "脂肪管型( fatty cas)"
+  },
+  {
+    "id": "auto_0032",
+    "title": "蜡样管型( waxy cast)",
+    "image": "assets/images/auto_0032.jpg",
+    "prompt": "脂肪管型( fatty cas)"
+  },
+  {
+    "id": "auto_0033",
+    "title": "脂肪管型( fatty cas)",
+    "image": "assets/images/auto_0033.jpg",
+    "prompt": "• (1)形态特点管型内脂肪滴含量在1/3以上时可称为脂肪管型,管型内可见大小不等折光很强的圆形脂肪滴。若用偏振光显微镜观察,管型基质黑暗,脂肪滴显明亮,脂肪滴中心部位可见典型的“马尔他十字”形。S染色和SM染色:脂肪滴均不被染色;苏丹Ⅲ染色:脂肪滴被染色呈橙红色至红色。 • (2)临床意义:常见于肾病综合征。"
+  },
+  {
+    "id": "auto_0034",
+    "title": "宽大管型（broad cast",
+    "image": "assets/images/auto_0034.jpg",
+    "prompt": "112"
+  },
+  {
+    "id": "auto_0035",
+    "title": "结晶管型",
+    "image": "assets/images/auto_0035.jpg",
+    "prompt": "结晶管型"
+  },
+  {
+    "id": "auto_0036",
+    "title": "结晶管型",
+    "image": "assets/images/auto_0036.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0037",
+    "title": "结晶管型",
+    "image": "assets/images/auto_0037.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0038",
+    "title": "结晶管型",
+    "image": "assets/images/auto_0038.jpg",
+    "prompt": "113"
+  },
+  {
+    "id": "auto_0039",
+    "title": "结晶管型",
+    "image": "assets/images/auto_0039.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0040",
+    "title": "结晶管型",
+    "image": "assets/images/auto_0040.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0041",
+    "title": "结晶管型",
+    "image": "assets/images/auto_0041.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0042",
+    "title": "结晶管型",
+    "image": "assets/images/auto_0042.jpg",
+    "prompt": "114"
+  },
+  {
+    "id": "auto_0043",
+    "title": "混合管型( mixed cast)",
+    "image": "assets/images/auto_0043.jpg",
+    "prompt": "• (1)形态特点:混合管型指管型内同时含有不同细胞及其他有形成分,如颗粒、细菌或脂肪滴等。管型内的细胞数量较少,外形与颗粒管型相似,用S染色、S-M染色或巴氏染色法有助于识别其中内含物。 • (2)临床意义:正常尿液无混合管型。出现混合管型,见于肾小球肾炎反复发作、出血和血管坏死、肾梗死、肾移植后急性排异反应等;也可见于结节性脉管炎、狼疮性肾炎、恶性高血压等。"
+  },
+  {
+    "id": "auto_0044",
+    "title": "混合管型( mixed cast)",
+    "image": "assets/images/auto_0044.jpg",
+    "prompt": "115"
+  },
+  {
+    "id": "auto_0045",
+    "title": "混合管型( mixed cast)",
+    "image": "assets/images/auto_0045.jpg",
+    "prompt": "115"
+  },
+  {
+    "id": "auto_0046",
+    "title": "混合管型( mixed cast)",
+    "image": "assets/images/auto_0046.jpg",
+    "prompt": "血液管型( blood cast)"
+  },
+  {
+    "id": "auto_0047",
+    "title": "混合管型( mixed cast)",
+    "image": "assets/images/auto_0047.jpg",
+    "prompt": "血液管型( blood cast)"
+  },
+  {
+    "id": "auto_0048",
+    "title": "血液管型( blood cast)",
+    "image": "assets/images/auto_0048.jpg",
+    "prompt": "116"
+  },
+  {
+    "id": "auto_0049",
+    "title": "血液管型( blood cast)",
+    "image": "assets/images/auto_0049.jpg",
+    "prompt": "嵌套管型( nested casts)"
+  },
+  {
+    "id": "auto_0050",
+    "title": "血液管型( blood cast)",
+    "image": "assets/images/auto_0050.jpg",
+    "prompt": "嵌套管型( nested casts)"
+  },
+  {
+    "id": "auto_0051",
+    "title": "嵌套管型( nested casts)",
+    "image": "assets/images/auto_0051.jpg",
+    "prompt": "117"
+  },
+  {
+    "id": "auto_0052",
+    "title": "类管型",
+    "image": "assets/images/auto_0052.jpg",
+    "prompt": "•(1)黏液丝( mucous strands):为长线条形,边缘不清,末端尖细卷曲,大小不等，常见暗淡纹。可见于正常尿中,尤其妇女尿液中较多;如大量存在常表示尿道受刺激或有炎症反应。 •(2)假管型( pseudo cast):为非晶形尿酸盐、磷酸盐等形成的圆柱体,其外形与管型相似,但无管型的基质,边缘不整齐,两端破碎,其颗粒粗细不均,色泽发暗,加温或加酸后即消失,而真管型不变。 •(3)圆柱体( cylinder):又称类管型,其形态与透明管型相似,但一端略细,有时有扭曲或弯曲,如螺旋状,常伴透明管型同时出现。见于急性肾炎、肾血循环障碍或肾受刺激的患者。 •(4)其他:衣物中的丝、毛、麻等各种纤维脱落物可污染尿液,有人将其误认为管型，此类纤维一般两边缘不整齐,无特征性内含物,相对比较容易鉴别。另有吗啡晶体,折光性较强的细长圆柱体,应注意与管型鉴别。"
+  },
+  {
+    "id": "auto_0053",
+    "title": "类管型",
+    "image": "assets/images/auto_0053.jpg",
+    "prompt": "118"
+  },
+  {
+    "id": "auto_0054",
+    "title": "1.概述",
+    "image": "assets/images/auto_0054.jpg",
+    "prompt": "尿液中发现较多的红细胞（red blood cell、etythrocyte )"
+  },
+  {
+    "id": "auto_0055",
+    "title": "•红细胞",
+    "image": "assets/images/auto_0055.jpg",
+    "prompt": "1.概述"
+  },
+  {
+    "id": "auto_0056",
+    "title": "2.1  正常形态红细胞",
+    "image": "assets/images/auto_0056.jpg",
+    "prompt": "正常红细胞：淡黄色，直径7-8μm，无细胞核，呈双凹圆盘状。"
+  },
+  {
+    "id": "auto_0057",
+    "title": "•正常形态红细胞",
+    "image": "assets/images/auto_0057.jpg",
+    "prompt": "正常红细胞：淡黄色，直径7-8μm，无细胞核，呈双凹圆盘状。"
+  },
+  {
+    "id": "auto_0058",
+    "title": "①小红细胞 ②大红细胞 ③芽胞样红细胞：在Chu等分类法中又称G类红细胞。 ④环状红细胞：又称面包圈样红细胞 ⑤皱缩红细胞 ⑥古钱币样红细胞： ⑦影红细胞 ⑧裂红细胞",
+    "image": "assets/images/auto_0058.jpg",
+    "prompt": "按红细胞大小变化分为——①大红细胞  ②小红细胞"
+  },
+  {
+    "id": "auto_0059",
+    "title": "红细胞大小变化分为——①大红细胞  ②小红细胞",
+    "image": "assets/images/auto_0059.jpg",
+    "prompt": "②小红细胞  直径≤7μm，尿比重高或碱性尿时，红细胞水分渗出，形态变小可呈褐色颗粒状。"
+  },
+  {
+    "id": "auto_0060",
+    "title": "红细胞大小变化分为——①大红细胞  ②小红细胞",
+    "image": "assets/images/auto_0060.jpg",
+    "prompt": "正形"
+  },
+  {
+    "id": "auto_0061",
+    "title": "③芽胞样红细胞：又称棘红细胞，可见细胞膜内或细胞膜外出现1个或多个芽胞状突起。主要因肾小球滤过膜受到挤压、损伤形成，导致红细胞形态变化和血红蛋白的丢失。         。",
+    "image": "assets/images/auto_0061.jpg",
+    "prompt": "•在Chu等分类法中又称G类红细胞  •肾小球性血尿的特征性标志"
+  },
+  {
+    "id": "auto_0062",
+    "title": "④环状红细胞：又称面包圈样红细胞，主要在低渗尿中出现，细胞肿胀变形，血红蛋白向四周集中形成面包圈样空心圆环。",
+    "image": "assets/images/auto_0062.jpg",
+    "prompt": "2.2  异型红细胞"
+  },
+  {
+    "id": "auto_0063",
+    "title": "⑤皱缩红细胞：主要在高渗尿中出现，表面呈带刺的锯齿状。",
+    "image": "assets/images/auto_0063.jpg",
+    "prompt": "2.2  异型红细胞"
+  },
+  {
+    "id": "auto_0064",
+    "title": "⑥古钱币样红细胞：因血红蛋白丢失，细胞中空穿孔形成方形或三角形孔洞，形式古钱币样。",
+    "image": "assets/images/auto_0064.jpg",
+    "prompt": "122"
+  },
+  {
+    "id": "auto_0065",
+    "title": "⑥古钱币样红细胞：因血红蛋白丢失，细胞中空穿孔形成方形或三角形孔洞，形式古钱币样。",
+    "image": "assets/images/auto_0065.jpg",
+    "prompt": "2.2  异型红细胞"
+  },
+  {
+    "id": "auto_0066",
+    "title": "•⑦影红细胞：细胞膜极薄，因血红蛋白大量丢失，仅余基本完整的红细胞膜，红细胞呈大小不一的圆圈样淡影状态。",
+    "image": "assets/images/auto_0066.jpg",
+    "prompt": "2.2  异型红细胞"
+  },
+  {
+    "id": "auto_0067",
+    "title": "•⑦影红细胞：细胞膜极薄，因血红蛋白大量丢失，仅余基本完整的红细胞膜，红细胞呈大小不一的圆圈样淡影状态。",
+    "image": "assets/images/auto_0067.jpg",
+    "prompt": "123"
+  },
+  {
+    "id": "auto_0068",
+    "title": "⑧裂红细胞：又称碎片样红细胞，为红细胞破碎后形成的新月形、梨形、球形等不规则形的红细胞碎片。",
+    "image": "assets/images/auto_0068.jpg",
+    "prompt": "123"
+  },
+  {
+    "id": "auto_0069",
+    "title": "•此外，还有——         泪滴样红细胞，红细胞外形呈泪滴状。",
+    "image": "assets/images/auto_0069.jpg",
+    "prompt": "•异型红细胞"
+  },
+  {
+    "id": "auto_0070",
+    "title": "口形红细胞：体积正常，边缘规整，中心呈现“口”或“一”字形的淡染区，红细胞整体看上去像一张口。",
+    "image": "assets/images/auto_0070.jpg",
+    "prompt": "2.2  异型红细胞"
+  },
+  {
+    "id": "auto_0071",
+    "title": "•异型红细胞",
+    "image": "assets/images/auto_0071.jpg",
+    "prompt": "2.2  异型红细胞"
+  },
+  {
+    "id": "auto_0072",
+    "title": "靶型红细胞",
+    "image": "assets/images/auto_0072.jpg",
+    "prompt": "124"
+  },
+  {
+    "id": "auto_0073",
+    "title": "真菌孢子",
+    "image": "assets/images/auto_0073.jpg",
+    "prompt": "草酸钙结晶"
+  },
+  {
+    "id": "auto_0074",
+    "title": "3.1  真菌孢子",
+    "image": "assets/images/auto_0074.jpg",
+    "prompt": "3.2  椭圆型草酸钙结晶"
+  },
+  {
+    "id": "auto_0075",
+    "title": "3.2  椭圆型草酸钙结晶",
+    "image": "assets/images/auto_0075.jpg",
+    "prompt": "草酸钙结晶： 多为无色、方形、折光性强的八面体，有两条明显、高完的对角线相互交叉；有时呈哑铃形(8字形)、椭圆形、小因形等多种形态。溶解度低，易在尿液中析出——其中椭圆形或小圆形常与红细胞形态类似。"
+  },
+  {
+    "id": "auto_0076",
+    "title": "草酸钙结晶： 多为无色、方形、折光性强的八面体，有两条明显、高完的对角线相互交叉；有时呈哑铃形(8字形)、椭圆形、小因形等多种形态。溶解度低，易在尿液中析出——其中椭圆形或小圆形常与红细胞形态类似。",
+    "image": "assets/images/auto_0076.jpg",
+    "prompt": "3.2  椭圆型草酸钙结晶"
+  },
+  {
+    "id": "auto_0077",
+    "title": "3.2  椭圆型草酸钙结晶",
+    "image": "assets/images/auto_0077.jpg",
+    "prompt": "3.3  尿酸结晶"
+  },
+  {
+    "id": "auto_0078",
+    "title": "3.3  尿酸结晶",
+    "image": "assets/images/auto_0078.jpg",
+    "prompt": "3.4  白细胞"
+  },
+  {
+    "id": "auto_0079",
+    "title": "箭头所指的均为红细胞",
+    "image": "assets/images/auto_0079.jpg",
+    "prompt": "3.4  白细胞"
+  },
+  {
+    "id": "auto_0080",
+    "title": "3.4  白细胞",
+    "image": "assets/images/auto_0080.jpg",
+    "prompt": "126"
+  },
+  {
+    "id": "auto_0081",
+    "title": "3.5  脂肪球",
+    "image": "assets/images/auto_0081.jpg",
+    "prompt": "3.6  杂质"
+  },
+  {
+    "id": "auto_0082",
+    "title": "3.5  脂肪球",
+    "image": "assets/images/auto_0082.jpg",
+    "prompt": "3  尿液红细胞与其他有型物鉴别"
+  },
+  {
+    "id": "auto_0083",
+    "title": "3.6  杂质",
+    "image": "assets/images/auto_0083.jpg",
+    "prompt": "127"
+  },
+  {
+    "id": "auto_0084",
+    "title": "胡丽君",
+    "image": "assets/images/auto_0084.jpg",
+    "prompt": "上皮细胞包括： • 肾小管上皮细胞：又称多边形细胞 • 移行上皮细胞     表层移行上皮细胞：又称大圆上皮细胞     中层移行上皮细胞：又称尾形/纺锤状/肾盂上皮细胞     底层移行上皮细胞：又称小圆上皮细胞 • 鳞状上皮细胞：又称扁平上皮细胞 • 吞噬细胞"
+  },
+  {
+    "id": "auto_0085",
+    "title": "胡丽君",
+    "image": "assets/images/auto_0085.jpg",
+    "prompt": "上皮细胞包括： • 肾小管上皮细胞：又称多边形细胞 • 移行上皮细胞     表层移行上皮细胞：又称大圆上皮细胞     中层移行上皮细胞：又称尾形/纺锤状/肾盂上皮细胞     底层移行上皮细胞：又称小圆上皮细胞 • 鳞状上皮细胞：又称扁平上皮细胞 • 吞噬细胞"
+  },
+  {
+    "id": "auto_0086",
+    "title": "• 尿液中脱落的上皮细胞（epithelium ）多来自泌尿系统的肾小管、肾盂、输尿管、膀胱、尿道等处，阴道脱落的鳞状上皮细胞亦可混人尿液中。 • 肾小管内为肾小管立方上皮细胞所覆盖； • 肾盂、输尿管、膀胱和尿道近膀胱处的表面由移行上皮细胞覆盖； • 输尿管下部、膀胱、尿道和阴道表层为复层鳞",
+    "image": "assets/images/auto_0086.jpg",
+    "prompt": "状上皮细胞覆盖。 • 这些部位出现病变，相应的上皮细胞在尿液中异常增多。"
+  },
+  {
+    "id": "auto_0087",
+    "title": "• 尿液中脱落的上皮细胞（epithelium ）多来自泌尿系统的肾小管、肾盂、输尿管、膀胱、尿道等处，阴道脱落的鳞状上皮细胞亦可混人尿液中。 • 肾小管内为肾小管立方上皮细胞所覆盖； • 肾盂、输尿管、膀胱和尿道近膀胱处的表面由移行上皮细胞覆盖； • 输尿管下部、膀胱、尿道和阴道表层为复层鳞",
+    "image": "assets/images/auto_0087.jpg",
+    "prompt": "状上皮细胞覆盖。 • 这些部位出现病变，相应的上皮细胞在尿液中异常增多。"
+  },
+  {
+    "id": "auto_0088",
+    "title": "临床意义：正常人尿中无或偶见，明显增多，提示肾小管病变。在急性肾小管肾炎时可见。肾小管坏死性病变或肾移植术后一周内，尿中可见大量或成片脱落的肾小管上皮细胞。",
+    "image": "assets/images/auto_0088.jpg",
+    "prompt": "如肾小管上皮细胞内脂肪颗粒或含铁血黄素颗粒较多，甚至覆盖于核上，又称复粒细胞。"
+  },
+  {
+    "id": "auto_0089",
+    "title": "如肾小管上皮细胞内脂肪颗粒或含铁血黄素颗粒较多，甚至覆盖于核上，又称复粒细胞。",
+    "image": "assets/images/auto_0089.jpg",
+    "prompt": "复粒细胞"
+  },
+  {
+    "id": "auto_0090",
+    "title": "临床意义：肾小管上皮细胞发生脂肪变性，见于慢性肾脏疾病等。",
+    "image": "assets/images/auto_0090.jpg",
+    "prompt": "复粒细胞"
+  },
+  {
+    "id": "auto_0091",
+    "title": "特征：体积可随器官胀缩状态不同而变化，器官充盈时脱落胞体较大，约为白细胞的4-6倍，多呈圆形或不规则圆形；核较小，常居中；在器官收缩时脱落则胞体较小，约为白细胞的2-3倍，形态较圆或椭圆，核较前者略大，多居于中心。",
+    "image": "assets/images/auto_0091.jpg",
+    "prompt": "表层移行上皮细胞"
+  },
+  {
+    "id": "auto_0092",
+    "title": "表层移行上皮细胞",
+    "image": "assets/images/auto_0092.jpg",
+    "prompt": "临床意义：一般偶然出现，无临床诊断价值，在肾盂、输尿管或膀胱颈部炎症时可成片脱落，但形态随脱落部位不同稍有区别，并可伴有较多的白细胞出现。"
+  },
+  {
+    "id": "auto_0093",
+    "title": "表层移行上皮细胞",
+    "image": "assets/images/auto_0093.jpg",
+    "prompt": "临床意义：一般偶然出现，无临床诊断价值，在肾盂、输尿管或膀胱颈部炎症时可成片脱落，但形态随脱落部位不同稍有区别，并可伴有较多的白细胞出现。"
+  },
+  {
+    "id": "auto_0094",
+    "title": "表层移行上皮细胞",
+    "image": "assets/images/auto_0094.jpg",
+    "prompt": "临床意义：一般偶然出现，无临床诊断价值，在肾盂、输尿管或膀胱颈部炎症时可成片脱落，但形态随脱落部位不同稍有区别，并可伴有较多的白细胞出现。"
+  },
+  {
+    "id": "auto_0095",
+    "title": "特征：体积大小不一，呈梨形、纺锤形或蝌蚪形，核较大，呈圆形或椭圆形，常偏于细胞一侧。多来自于肾盂，亦可来自输尿管及膀胱颈部。",
+    "image": "assets/images/auto_0095.jpg",
+    "prompt": "中层移行上皮细胞"
+  },
+  {
+    "id": "auto_0096",
+    "title": "中层移行上皮细胞",
+    "image": "assets/images/auto_0096.jpg",
+    "prompt": "临床意义：肾盂、输尿管或膀胱颈部炎症时可大量或成片脱落。"
+  },
+  {
+    "id": "auto_0097",
+    "title": "特征：细胞体积较小，圆形、多边形，细胞核椭圆形，居中，染色质致密。",
+    "image": "assets/images/auto_0097.jpg",
+    "prompt": "临床意义：肾盂、输尿管或膀胱颈部炎症时可大量或成片脱落。"
+  },
+  {
+    "id": "auto_0098",
+    "title": "临床意义：肾盂、输尿管或膀胱颈部炎症时可大量或成片脱落。",
+    "image": "assets/images/auto_0098.jpg",
+    "prompt": "中层移行上皮细胞"
+  },
+  {
+    "id": "auto_0099",
+    "title": "特征：细胞体积较小，圆形、多边形，细胞核椭圆形，居中，染色质致密。",
+    "image": "assets/images/auto_0099.jpg",
+    "prompt": "底层移行上皮细胞"
+  },
+  {
+    "id": "auto_0100",
+    "title": "临床意义：肾小管中度或炎症时多见。",
+    "image": "assets/images/auto_0100.jpg",
+    "prompt": "底层移行上皮细胞"
+  },
+  {
+    "id": "auto_0101",
+    "title": "肾小管上皮细胞",
+    "image": "assets/images/auto_0101.jpg",
+    "prompt": "底层移行上皮细胞"
+  },
+  {
+    "id": "auto_0102",
+    "title": "底层移行上皮细胞",
+    "image": "assets/images/auto_0102.jpg",
+    "prompt": "细胞体积 小 大"
+  },
+  {
+    "id": "auto_0103",
+    "title": "特征：鳞状上皮细胞为尿液中最大的上皮细胞，扁平似鱼鳞状、不规则，多边多角，边缘常卷曲，胞核很小，呈圆形或卵圆形，",
+    "image": "assets/images/auto_0103.jpg",
+    "prompt": "鳞状上皮细胞"
+  },
+  {
+    "id": "auto_0104",
+    "title": "临床意义：在正常尿液中可见少量，成年女性尿中较多。如大量增多或成群出现并伴有白细胞增多，排除阴道分泌物混入而来的位于阴道表层的扁平上皮细胞外，则提示有炎症。",
+    "image": "assets/images/auto_0104.jpg",
+    "prompt": "鳞状上皮细胞"
+  },
+  {
+    "id": "auto_0105",
+    "title": "特征：吞噬细胞（巨噬细胞）体积约为白细胞的2～3倍，一般为圆形或椭圆形，边缘不整；胞核呈肾形或类圆形，结构细致，稍偏位；胞质丰富，胞质中吞噬的物体很多。有时胞质还可见空泡及伸出阿米巴样伪足，新鲜尿液中还可见到伪足的活动。",
+    "image": "assets/images/auto_0105.jpg",
+    "prompt": "临床意义：可见于泌尿道急性炎症、膀胱炎、尿道炎等"
+  },
+  {
+    "id": "auto_0106",
+    "title": "吞噬细胞",
+    "image": "assets/images/auto_0106.jpg",
+    "prompt": "临床意义：可见于泌尿道急性炎症、膀胱炎、尿道炎等"
+  },
+  {
+    "id": "auto_0107",
+    "title": "吞噬细胞",
+    "image": "assets/images/auto_0107.jpg",
+    "prompt": "特征：吞噬细胞（巨噬细胞）体积约为白细胞的2～3倍，一般为圆形或椭圆形，边缘不整；胞核呈肾形或类圆形，结构细致，稍偏位；胞质丰富，胞质中吞噬的物体很多。有时胞质还可见空泡及伸出阿米巴样伪足，新鲜尿液中还可见到伪足的活动。"
+  },
+  {
+    "id": "auto_0108",
+    "title": "吞噬细胞",
+    "image": "assets/images/auto_0108.jpg",
+    "prompt": "临床意义：可见于泌尿道急性炎症、膀胱炎、尿道炎等"
+  },
+  {
+    "id": "auto_0109",
+    "title": "特征：略似透明管型，为长丝形，不规则，粗细不等，边缘不清，末端分支不像透明管型那样两端整齐、钝圆。",
+    "image": "assets/images/auto_0109.jpg",
+    "prompt": "粘液丝"
+  },
+  {
+    "id": "auto_0110",
+    "title": "粘液丝",
+    "image": "assets/images/auto_0110.jpg",
+    "prompt": "133"
+  },
+  {
+    "id": "auto_0111",
+    "title": "粘液丝",
+    "image": "assets/images/auto_0111.jpg",
+    "prompt": "特征：略似透明管型，为长丝形，不规则，粗细不等，边缘不清，末端分支不像透明管型那样两端整齐、钝圆。"
+  },
+  {
+    "id": "auto_0112",
+    "title": "粘液丝",
+    "image": "assets/images/auto_0112.jpg",
+    "prompt": "特征：略似透明管型，为长丝形，不规则，粗细不等，边缘不清，末端分支不像透明管型那样两端整齐、钝圆。"
+  },
+  {
+    "id": "auto_0113",
+    "title": "尿沉渣形态学检查上皮细胞及粘液丝",
+    "image": "assets/images/auto_0113.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0114",
+    "title": "PH﹤7.0 PH4～9 PH﹥7.0",
+    "image": "assets/images/auto_0114.jpg",
+    "prompt": "生理性结晶 尿酸、无定型"
+  },
+  {
+    "id": "auto_0115",
+    "title": "• 形态特点：1、二水草酸钙结晶：呈方形加对角线、信封状或八面体状。镜下形态清晰，两条交叉十字线呈高光线，结晶不着色。2、一水草酸钙结晶：呈椭圆形、稻草捆形、麻花形等。色淡黄，折光性强，易聚集成团。 • 临床意义：为 常见生理性结晶。长期大量出现可导致泌尿道结石。 • 应用评析：大小不一，形态多样性。 • 鉴别方法：加温60 ℃不溶解，加醋酸、氢氧化钾及氯仿均不溶解，加盐酸溶解。",
+    "image": "assets/images/auto_0115.jpg",
+    "prompt": "1.1草酸钙结晶"
+  },
+  {
+    "id": "auto_0116",
+    "title": "1.1草酸钙结晶",
+    "image": "assets/images/auto_0116.jpg",
+    "prompt": "136"
+  },
+  {
+    "id": "auto_0117",
+    "title": "1.1草酸钙结晶",
+    "image": "assets/images/auto_0117.jpg",
+    "prompt": "草酸钙结晶。A二水合物，B一水合物"
+  },
+  {
+    "id": "auto_0118",
+    "title": "1.1草酸钙结晶",
+    "image": "assets/images/auto_0118.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0119",
+    "title": "1.1草酸钙结晶",
+    "image": "assets/images/auto_0119.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0120",
+    "title": "1.1草酸钙结晶",
+    "image": "assets/images/auto_0120.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0121",
+    "title": "1.1草酸钙结晶",
+    "image": "assets/images/auto_0121.jpg",
+    "prompt": "137"
+  },
+  {
+    "id": "auto_0122",
+    "title": "1.1草酸钙结晶",
+    "image": "assets/images/auto_0122.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0123",
+    "title": "1.1草酸钙结晶",
+    "image": "assets/images/auto_0123.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0124",
+    "title": "1.1草酸钙结晶",
+    "image": "assets/images/auto_0124.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0125",
+    "title": "1.1草酸钙结晶",
+    "image": "assets/images/auto_0125.jpg",
+    "prompt": "138"
+  },
+  {
+    "id": "auto_0126",
+    "title": "1.1草酸钙结晶",
+    "image": "assets/images/auto_0126.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0127",
+    "title": "1.1草酸钙结晶",
+    "image": "assets/images/auto_0127.jpg",
+    "prompt": "1.2 磷酸铵镁结晶"
+  },
+  {
+    "id": "auto_0128",
+    "title": "1.1草酸钙结晶",
+    "image": "assets/images/auto_0128.jpg",
+    "prompt": "• 形态特点：典型形态为屋顶形和棱柱形呈“棺盖”样。形态多变，易聚集成堆。"
+  },
+  {
+    "id": "auto_0129",
+    "title": "1.2 磷酸铵镁结晶",
+    "image": "assets/images/auto_0129.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0130",
+    "title": "1.2 磷酸铵镁结晶",
+    "image": "assets/images/auto_0130.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0131",
+    "title": "1.2 磷酸铵镁结晶",
+    "image": "assets/images/auto_0131.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0132",
+    "title": "1.2 磷酸铵镁结晶",
+    "image": "assets/images/auto_0132.jpg",
+    "prompt": "140"
+  },
+  {
+    "id": "auto_0133",
+    "title": "1.2 磷酸铵镁结晶",
+    "image": "assets/images/auto_0133.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0134",
+    "title": "1.2 磷酸铵镁结晶",
+    "image": "assets/images/auto_0134.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0135",
+    "title": "1.2 磷酸铵镁结晶",
+    "image": "assets/images/auto_0135.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0136",
+    "title": "1.2 磷酸铵镁结晶",
+    "image": "assets/images/auto_0136.jpg",
+    "prompt": "141"
+  },
+  {
+    "id": "auto_0137",
+    "title": "1.2 磷酸铵镁结晶",
+    "image": "assets/images/auto_0137.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0138",
+    "title": "1.2 磷酸铵镁结晶",
+    "image": "assets/images/auto_0138.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0139",
+    "title": "1.2 磷酸铵镁结晶",
+    "image": "assets/images/auto_0139.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0140",
+    "title": "1.2 磷酸铵镁结晶",
+    "image": "assets/images/auto_0140.jpg",
+    "prompt": "142"
+  },
+  {
+    "id": "auto_0141",
+    "title": "1.2 磷酸铵镁结晶",
+    "image": "assets/images/auto_0141.jpg",
+    "prompt": "1.3尿酸结晶"
+  },
+  {
+    "id": "auto_0142",
+    "title": "1.3尿酸结晶",
+    "image": "assets/images/auto_0142.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0143",
+    "title": "1.3尿酸结晶",
+    "image": "assets/images/auto_0143.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0144",
+    "title": "1.3尿酸结晶",
+    "image": "assets/images/auto_0144.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0145",
+    "title": "1.3尿酸结晶",
+    "image": "assets/images/auto_0145.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0146",
+    "title": "1.3尿酸结晶",
+    "image": "assets/images/auto_0146.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0147",
+    "title": "1.3尿酸结晶",
+    "image": "assets/images/auto_0147.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0148",
+    "title": "1.3尿酸结晶",
+    "image": "assets/images/auto_0148.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0149",
+    "title": "1.3尿酸结晶",
+    "image": "assets/images/auto_0149.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0150",
+    "title": "1.3尿酸结晶",
+    "image": "assets/images/auto_0150.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0151",
+    "title": "1.3尿酸结晶",
+    "image": "assets/images/auto_0151.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0152",
+    "title": "1.3尿酸结晶",
+    "image": "assets/images/auto_0152.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0153",
+    "title": "1.3尿酸结晶",
+    "image": "assets/images/auto_0153.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0154",
+    "title": "1.3尿酸结晶",
+    "image": "assets/images/auto_0154.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0155",
+    "title": "1.3尿酸结晶",
+    "image": "assets/images/auto_0155.jpg",
+    "prompt": "146"
+  },
+  {
+    "id": "auto_0156",
+    "title": "1.3尿酸结晶",
+    "image": "assets/images/auto_0156.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0157",
+    "title": "1.3尿酸结晶",
+    "image": "assets/images/auto_0157.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0158",
+    "title": "1.3尿酸结晶",
+    "image": "assets/images/auto_0158.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0159",
+    "title": "1.3尿酸结晶",
+    "image": "assets/images/auto_0159.jpg",
+    "prompt": "147"
+  },
+  {
+    "id": "auto_0160",
+    "title": "1.3尿酸结晶",
+    "image": "assets/images/auto_0160.jpg",
+    "prompt": "1.4磷酸钙结晶"
+  },
+  {
+    "id": "auto_0161",
+    "title": "1.3尿酸结晶",
+    "image": "assets/images/auto_0161.jpg",
+    "prompt": "1.4磷酸钙结晶"
+  },
+  {
+    "id": "auto_0162",
+    "title": "• 形态特点：分为磷酸钙结晶和磷酸二钙结晶。无色，呈粗细不等的长棱柱形，两端面平或尖，可呈辐射状、扇形或交叉成束排列，故也称恒星形磷酸盐。 • 临床意义：属生理性结晶，长期大量出现见于骨质脱钙、慢性泌尿道炎症。 • 应用评析：注意与聚集成堆的磷酸铵镁结晶区分。",
+    "image": "assets/images/auto_0162.jpg",
+    "prompt": "• 磷酸钙结晶可溶解于弱乙酸和盐酸中，不溶于氢氧化钾和氯仿，加热至60℃不溶。"
+  },
+  {
+    "id": "auto_0163",
+    "title": "1.4磷酸钙结晶",
+    "image": "assets/images/auto_0163.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0164",
+    "title": "1.4磷酸钙结晶",
+    "image": "assets/images/auto_0164.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0165",
+    "title": "1.4磷酸钙结晶",
+    "image": "assets/images/auto_0165.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0166",
+    "title": "1.4磷酸钙结晶",
+    "image": "assets/images/auto_0166.jpg",
+    "prompt": "149"
+  },
+  {
+    "id": "auto_0167",
+    "title": "1.4磷酸钙结晶",
+    "image": "assets/images/auto_0167.jpg",
+    "prompt": "1.5 非晶形结晶"
+  },
+  {
+    "id": "auto_0168",
+    "title": "1.4磷酸钙结晶",
+    "image": "assets/images/auto_0168.jpg",
+    "prompt": "1.5.1 非晶形磷酸盐结晶"
+  },
+  {
+    "id": "auto_0169",
+    "title": "1.5.1 非晶形磷酸盐结晶",
+    "image": "assets/images/auto_0169.jpg",
+    "prompt": "150"
+  },
+  {
+    "id": "auto_0170",
+    "title": "1.5.2 非晶形尿酸盐结晶",
+    "image": "assets/images/auto_0170.jpg",
+    "prompt": "1.5 非晶形结晶"
+  },
+  {
+    "id": "auto_0171",
+    "title": "1.5.3 非晶形碳酸盐结晶",
+    "image": "assets/images/auto_0171.jpg",
+    "prompt": "1.5 非晶形结晶"
+  },
+  {
+    "id": "auto_0172",
+    "title": "1.5 非晶形结晶",
+    "image": "assets/images/auto_0172.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0173",
+    "title": "1.5 非晶形结晶",
+    "image": "assets/images/auto_0173.jpg",
+    "prompt": "151"
+  },
+  {
+    "id": "auto_0174",
+    "title": "1.5 非晶形结晶",
+    "image": "assets/images/auto_0174.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0175",
+    "title": "1.5 非晶形结晶",
+    "image": "assets/images/auto_0175.jpg",
+    "prompt": "1.6 马尿酸结晶"
+  },
+  {
+    "id": "auto_0176",
+    "title": "1.5 非晶形结晶",
+    "image": "assets/images/auto_0176.jpg",
+    "prompt": "• 形态特点：无色针状、板状、斜方柱或棱柱状。长短宽窄不等，两端尖角状，可聚集成束。 • 临床意义：尿中正常成分。多见于酸性尿。"
+  },
+  {
+    "id": "auto_0177",
+    "title": "1.6 马尿酸结晶",
+    "image": "assets/images/auto_0177.jpg",
+    "prompt": "区分"
+  },
+  {
+    "id": "auto_0178",
+    "title": "1.6 马尿酸结晶",
+    "image": "assets/images/auto_0178.jpg",
+    "prompt": "1.7 碳酸钙结晶"
+  },
+  {
+    "id": "auto_0179",
+    "title": "1.7 碳酸钙结晶",
+    "image": "assets/images/auto_0179.jpg",
+    "prompt": "• 形态特点：黄褐色，不透明，呈树根状、海星状、棘球状或哑铃样等。"
+  },
+  {
+    "id": "auto_0180",
+    "title": "1.8 尿酸铵结晶",
+    "image": "assets/images/auto_0180.jpg",
+    "prompt": "1.7 碳酸钙结晶"
+  },
+  {
+    "id": "auto_0181",
+    "title": "1.8 尿酸铵结晶",
+    "image": "assets/images/auto_0181.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0182",
+    "title": "1.8 尿酸铵结晶",
+    "image": "assets/images/auto_0182.jpg",
+    "prompt": "154"
+  },
+  {
+    "id": "auto_0183",
+    "title": "1.8 尿酸铵结晶",
+    "image": "assets/images/auto_0183.jpg",
+    "prompt": "1.9 尿酸钠结晶"
+  },
+  {
+    "id": "auto_0184",
+    "title": "1.9 尿酸钠结晶",
+    "image": "assets/images/auto_0184.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0185",
+    "title": "1.9 尿酸钠结晶",
+    "image": "assets/images/auto_0185.jpg",
+    "prompt": "155"
+  },
+  {
+    "id": "auto_0186",
+    "title": "2.1 胆红素结晶",
+    "image": "assets/images/auto_0186.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0187",
+    "title": "2.1 胆红素结晶",
+    "image": "assets/images/auto_0187.jpg",
+    "prompt": "156"
+  },
+  {
+    "id": "auto_0188",
+    "title": "2.1 胆红素结晶",
+    "image": "assets/images/auto_0188.jpg",
+    "prompt": "2.2胆固醇结晶"
+  },
+  {
+    "id": "auto_0189",
+    "title": "2.1 胆红素结晶",
+    "image": "assets/images/auto_0189.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0190",
+    "title": "2.2胆固醇结晶",
+    "image": "assets/images/auto_0190.jpg",
+    "prompt": "157"
+  },
+  {
+    "id": "auto_0191",
+    "title": "2.2胆固醇结晶",
+    "image": "assets/images/auto_0191.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0192",
+    "title": "2.2胆固醇结晶",
+    "image": "assets/images/auto_0192.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0193",
+    "title": "2.2胆固醇结晶",
+    "image": "assets/images/auto_0193.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0194",
+    "title": "2.3 胱氨酸结晶",
+    "image": "assets/images/auto_0194.jpg",
+    "prompt": "• 形态特点：无色不对称六边形薄片样结晶，边缘清晰，折光性强，可单独出现，也可上下重叠排列。 • 临床意义：尿中大量出现多为肾或膀胱结石的征兆。在遗传性胱氨酸尿症，严重的肝脏疾病，风湿病或梅毒患者尿中也有检出。 • 应用评析：注意与同是六边形的尿酸结晶区分，尿酸结晶较厚，颜色较深，且多为比较对称的六形。胱氨酸结晶的特点是不溶解于乙酸而溶解于盐酸，可快速溶解于氨水中，再加乙酸后结晶可重新出现。另外，也可做胱氨酸试验；取尿沉渣少许，置于载玻片上，加稀硫酸及卢科氏碘液各1滴，出现蓝色或绿色反应可确认。"
+  },
+  {
+    "id": "auto_0195",
+    "title": "2.3 胱氨酸结晶",
+    "image": "assets/images/auto_0195.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0196",
+    "title": "2.3 胱氨酸结晶",
+    "image": "assets/images/auto_0196.jpg",
+    "prompt": "159"
+  },
+  {
+    "id": "auto_0197",
+    "title": "2.3 胱氨酸结晶",
+    "image": "assets/images/auto_0197.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0198",
+    "title": "2.3 胱氨酸结晶",
+    "image": "assets/images/auto_0198.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0199",
+    "title": "2.3 胱氨酸结晶",
+    "image": "assets/images/auto_0199.jpg",
+    "prompt": "• 形态特点：多呈黑色，细针状，多成束、成团或羽毛状出现，也可呈柔软丝样或毛发样。"
+  },
+  {
+    "id": "auto_0200",
+    "title": "2.4 酪氨酸结晶",
+    "image": "assets/images/auto_0200.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0201",
+    "title": "2.4 酪氨酸结晶",
+    "image": "assets/images/auto_0201.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0202",
+    "title": "2.4 酪氨酸结晶",
+    "image": "assets/images/auto_0202.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0203",
+    "title": "2.4 酪氨酸结晶",
+    "image": "assets/images/auto_0203.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0204",
+    "title": "2.4 酪氨酸结晶",
+    "image": "assets/images/auto_0204.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0205",
+    "title": "3.1磺胺药物结晶",
+    "image": "assets/images/auto_0205.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0206",
+    "title": "3.1磺胺药物结晶",
+    "image": "assets/images/auto_0206.jpg",
+    "prompt": "162"
+  },
+  {
+    "id": "auto_0207",
+    "title": "3.1磺胺药物结晶",
+    "image": "assets/images/auto_0207.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0208",
+    "title": "3.1磺胺药物结晶",
+    "image": "assets/images/auto_0208.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0209",
+    "title": "3.1磺胺药物结晶",
+    "image": "assets/images/auto_0209.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0210",
+    "title": "3.1磺胺药物结晶",
+    "image": "assets/images/auto_0210.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0211",
+    "title": "3.1磺胺药物结晶",
+    "image": "assets/images/auto_0211.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0212",
+    "title": "3.1磺胺药物结晶",
+    "image": "assets/images/auto_0212.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0213",
+    "title": "3.1磺胺药物结晶",
+    "image": "assets/images/auto_0213.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "auto_0214",
+    "title": "3.1磺胺药物结晶",
+    "image": "assets/images/auto_0214.jpg",
+    "prompt": "164"
+  },
+  {
+    "id": "auto_0215",
+    "title": "遇特殊形态有形成分时应了解患者用药情况、尿液理化检查结果，以便进一步观察和研究。",
+    "image": "assets/images/auto_0215.jpg",
+    "prompt": "END"
+  },
+  {
+    "id": "auto_0216",
+    "title": "梁大立",
+    "image": "assets/images/auto_0216.jpg",
+    "prompt": "• 2010501气泡"
+  },
+  {
+    "id": "2010501",
+    "title": "气泡",
+    "image": "assets/images/2010501.jpg",
+    "prompt": "梁大立"
+  },
+  {
+    "id": "2010502",
+    "title": "白细胞",
+    "image": "assets/images/2010502.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2010503",
+    "title": "胆红素结晶",
+    "image": "assets/images/2010503.jpg",
+    "prompt": "• 2010502 白细胞"
+  },
+  {
+    "id": "2010504",
+    "title": "红细胞",
+    "image": "assets/images/2010504.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2010505",
+    "title": "红细胞管型",
+    "image": "assets/images/2010505.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2010506",
+    "title": "颗粒管型",
+    "image": "assets/images/2010506.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2010507",
+    "title": "尿酸结晶",
+    "image": "assets/images/2010507.jpg",
+    "prompt": "167"
+  },
+  {
+    "id": "2010508",
+    "title": "深层移行上皮细胞",
+    "image": "assets/images/2010508.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2010509",
+    "title": "中层移行上皮细胞",
+    "image": "assets/images/2010509.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2010510",
+    "title": "细菌",
+    "image": "assets/images/2010510.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2010511",
+    "title": "原虫",
+    "image": "assets/images/2010511.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2010512",
+    "title": "精子",
+    "image": "assets/images/2010512.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2010513",
+    "title": "肾小管上皮细胞",
+    "image": "assets/images/2010513.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2010514",
+    "title": "白细胞管型",
+    "image": "assets/images/2010514.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2010515",
+    "title": "纤维丝",
+    "image": "assets/images/2010515.jpg",
+    "prompt": "169"
+  },
+  {
+    "id": "2011501",
+    "title": "颗粒管型",
+    "image": "assets/images/2011501.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2011502",
+    "title": "透明管型",
+    "image": "assets/images/2011502.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2011503",
+    "title": "红细胞",
+    "image": "assets/images/2011503.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2011504",
+    "title": "白细胞管型",
+    "image": "assets/images/2011504.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2011505",
+    "title": "尿酸结晶",
+    "image": "assets/images/2011505.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2011506",
+    "title": "白细胞",
+    "image": "assets/images/2011506.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2011507",
+    "title": "移行上皮癌细胞（s染色标本）",
+    "image": "assets/images/2011507.jpg",
+    "prompt": "171"
+  },
+  {
+    "id": "2011507",
+    "title": "移行上皮癌细胞（s染色标本）",
+    "image": "assets/images/2011507.jpg",
+    "prompt": "• 2011508 扁平上皮细胞表层"
+  },
+  {
+    "id": "2011509",
+    "title": "胱氨酸结晶",
+    "image": "assets/images/2011509.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2011510",
+    "title": "腊样管型",
+    "image": "assets/images/2011510.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2011511",
+    "title": "真菌",
+    "image": "assets/images/2011511.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2011512",
+    "title": "未知",
+    "image": "assets/images/2011512.jpg",
+    "prompt": "172"
+  },
+  {
+    "id": "2011513",
+    "title": "移行上皮细胞中层",
+    "image": "assets/images/2011513.jpg",
+    "prompt": "• 2011514 脂肪颗粒细胞"
+  },
+  {
+    "id": "2011514",
+    "title": "脂肪颗粒细胞",
+    "image": "assets/images/2011514.jpg",
+    "prompt": "• 2011513移行上皮细胞中层"
+  },
+  {
+    "id": "2011515",
+    "title": "肾小管上皮细胞",
+    "image": "assets/images/2011515.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2012501",
+    "title": "红细胞管型血液管型",
+    "image": "assets/images/2012501.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2012502",
+    "title": "草酸钙结晶",
+    "image": "assets/images/2012502.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2012503",
+    "title": "尿酸结晶",
+    "image": "assets/images/2012503.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2012504",
+    "title": "移行上皮细胞表层",
+    "image": "assets/images/2012504.jpg",
+    "prompt": "174"
+  },
+  {
+    "id": "2012505",
+    "title": "颗粒管型",
+    "image": "assets/images/2012505.jpg",
+    "prompt": "174"
+  },
+  {
+    "id": "2012506",
+    "title": "扁平上皮细胞表层",
+    "image": "assets/images/2012506.jpg",
+    "prompt": "• 2012507 尿酸铵结晶"
+  },
+  {
+    "id": "2012507",
+    "title": "尿酸铵结晶",
+    "image": "assets/images/2012507.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "20123508",
+    "title": "肾小管上皮细胞",
+    "image": "assets/images/20123508.jpg",
+    "prompt": "175"
+  },
+  {
+    "id": "2012509",
+    "title": "透明管型",
+    "image": "assets/images/2012509.jpg",
+    "prompt": "175"
+  },
+  {
+    "id": "2012510",
+    "title": "纤维丝",
+    "image": "assets/images/2012510.jpg",
+    "prompt": "• 2012511 移行上皮细胞中层（s染色标本）"
+  },
+  {
+    "id": "2012511",
+    "title": "移行上皮细胞中层（s染色标本）",
+    "image": "assets/images/2012511.jpg",
+    "prompt": "• 2012510 纤维丝"
+  },
+  {
+    "id": "2012512",
+    "title": "蜡样管型（相差显微镜下观察，未染色标本）",
+    "image": "assets/images/2012512.jpg",
+    "prompt": "176"
+  },
+  {
+    "id": "2012512",
+    "title": "蜡样管型（相差显微镜下观察，未染色标本）",
+    "image": "assets/images/2012512.jpg",
+    "prompt": "• 2012513 酪氨酸结晶"
+  },
+  {
+    "id": "2012514",
+    "title": "上皮细胞管型、白细胞管型、混合管型",
+    "image": "assets/images/2012514.jpg",
+    "prompt": "• 2012515 白细胞"
+  },
+  {
+    "id": "2012515",
+    "title": "白细胞",
+    "image": "assets/images/2012515.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2013501",
+    "title": "移行上皮细胞中层",
+    "image": "assets/images/2013501.jpg",
+    "prompt": "177"
+  },
+  {
+    "id": "2013502",
+    "title": "颗粒管型",
+    "image": "assets/images/2013502.jpg",
+    "prompt": "177"
+  },
+  {
+    "id": "2013503",
+    "title": "白细胞管型、混合管型",
+    "image": "assets/images/2013503.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2013504",
+    "title": "红细胞",
+    "image": "assets/images/2013504.jpg",
+    "prompt": "• 2013503 白细胞管型、混合管型"
+  },
+  {
+    "id": "2013505",
+    "title": "肾小管上皮细胞",
+    "image": "assets/images/2013505.jpg",
+    "prompt": "178"
+  },
+  {
+    "id": "2013506",
+    "title": "扁平上皮细胞（表层）",
+    "image": "assets/images/2013506.jpg",
+    "prompt": "178"
+  },
+  {
+    "id": "2013507",
+    "title": "白细胞",
+    "image": "assets/images/2013507.jpg",
+    "prompt": "• 2013508 尿酸结晶"
+  },
+  {
+    "id": "2013508",
+    "title": "尿酸结晶",
+    "image": "assets/images/2013508.jpg",
+    "prompt": "• 2013507 白细胞"
+  },
+  {
+    "id": "2013509",
+    "title": "草酸钙结晶",
+    "image": "assets/images/2013509.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2013510",
+    "title": "移行上皮细胞（表层）",
+    "image": "assets/images/2013510.jpg",
+    "prompt": "179"
+  },
+  {
+    "id": "2013511",
+    "title": "胆固醇结晶",
+    "image": "assets/images/2013511.jpg",
+    "prompt": "• 2013512 脂肪颗粒细胞、复粒细胞"
+  },
+  {
+    "id": "2013512",
+    "title": "脂肪颗粒细胞、复粒细胞",
+    "image": "assets/images/2013512.jpg",
+    "prompt": "• 2013511 胆固醇结晶"
+  },
+  {
+    "id": "2013513",
+    "title": "蜡样管型",
+    "image": "assets/images/2013513.jpg",
+    "prompt": "180"
+  },
+  {
+    "id": "2013514",
+    "title": "磷酸氨镁结晶",
+    "image": "assets/images/2013514.jpg",
+    "prompt": "180"
+  },
+  {
+    "id": "2013515",
+    "title": "真菌",
+    "image": "assets/images/2013515.jpg",
+    "prompt": "• 2014501 透明管型"
+  },
+  {
+    "id": "2014501",
+    "title": "透明管型",
+    "image": "assets/images/2014501.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2014502",
+    "title": "红细胞",
+    "image": "assets/images/2014502.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2014503",
+    "title": "尿酸铵",
+    "image": "assets/images/2014503.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2014504",
+    "title": "白细胞管型",
+    "image": "assets/images/2014504.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2014505",
+    "title": "移行上皮细胞（底层）",
+    "image": "assets/images/2014505.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2014506",
+    "title": "鳞状上皮细胞",
+    "image": "assets/images/2014506.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2014507",
+    "title": "磺胺类结晶",
+    "image": "assets/images/2014507.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2014508",
+    "title": "白细胞",
+    "image": "assets/images/2014508.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2014509",
+    "title": "磷酸钙结晶",
+    "image": "assets/images/2014509.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2014510",
+    "title": "颗粒管型",
+    "image": "assets/images/2014510.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2014511",
+    "title": "草酸钙结晶",
+    "image": "assets/images/2014511.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2014512",
+    "title": "胆红素结晶",
+    "image": "assets/images/2014512.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2014513",
+    "title": "血液管型",
+    "image": "assets/images/2014513.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2014514",
+    "title": "精子",
+    "image": "assets/images/2014514.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2014515",
+    "title": "细菌",
+    "image": "assets/images/2014515.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2015501",
+    "title": "红细胞",
+    "image": "assets/images/2015501.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2015502",
+    "title": "颗粒管型",
+    "image": "assets/images/2015502.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2015503",
+    "title": "脂肪颗粒细胞、复粒细胞",
+    "image": "assets/images/2015503.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2015504",
+    "title": "透明管型",
+    "image": "assets/images/2015504.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2015505",
+    "title": "尿酸结晶",
+    "image": "assets/images/2015505.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2015506",
+    "title": "鳞状上皮细胞、扁平上皮细胞",
+    "image": "assets/images/2015506.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2015507",
+    "title": "磷酸氨镁结晶",
+    "image": "assets/images/2015507.jpg",
+    "prompt": "186"
+  },
+  {
+    "id": "2015508",
+    "title": "吞噬细胞",
+    "image": "assets/images/2015508.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2015509",
+    "title": "血液管型",
+    "image": "assets/images/2015509.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2015510",
+    "title": "粘液丝",
+    "image": "assets/images/2015510.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2015511",
+    "title": "上皮细胞管型",
+    "image": "assets/images/2015511.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2015512",
+    "title": "白细胞",
+    "image": "assets/images/2015512.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2015513",
+    "title": "脂肪滴",
+    "image": "assets/images/2015513.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2015514",
+    "title": "移行上皮细胞（表层）",
+    "image": "assets/images/2015514.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2015515",
+    "title": "胆固醇结晶",
+    "image": "assets/images/2015515.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2016501",
+    "title": "白细胞",
+    "image": "assets/images/2016501.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2016502",
+    "title": "尿酸结晶",
+    "image": "assets/images/2016502.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2016503",
+    "title": "红细胞",
+    "image": "assets/images/2016503.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2016504",
+    "title": "白细胞管型",
+    "image": "assets/images/2016504.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2016505",
+    "title": "磷酸钙结晶",
+    "image": "assets/images/2016505.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2016506",
+    "title": "颗粒管型",
+    "image": "assets/images/2016506.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2016507",
+    "title": "鳞状上皮细胞",
+    "image": "assets/images/2016507.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2016508",
+    "title": "真菌",
+    "image": "assets/images/2016508.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2016509",
+    "title": "尿酸结晶",
+    "image": "assets/images/2016509.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2016510",
+    "title": "蜡样管型",
+    "image": "assets/images/2016510.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2016511",
+    "title": "磷酸氨镁结晶（三联磷酸盐）",
+    "image": "assets/images/2016511.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2016512",
+    "title": "移行上皮细胞（中层）",
+    "image": "assets/images/2016512.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2016513",
+    "title": "透明管型",
+    "image": "assets/images/2016513.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2016514",
+    "title": "移行上皮细胞（表层）",
+    "image": "assets/images/2016514.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2016515",
+    "title": "血液管型",
+    "image": "assets/images/2016515.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2017501",
+    "title": "白细胞",
+    "image": "assets/images/2017501.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2017502",
+    "title": "胆固醇结晶",
+    "image": "assets/images/2017502.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2017503",
+    "title": "颗粒细胞",
+    "image": "assets/images/2017503.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2017504",
+    "title": "红细胞",
+    "image": "assets/images/2017504.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2017505",
+    "title": "磷酸钙结晶",
+    "image": "assets/images/2017505.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2017506",
+    "title": "血液管型",
+    "image": "assets/images/2017506.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2017507",
+    "title": "鳞状上皮细胞",
+    "image": "assets/images/2017507.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2017508",
+    "title": "真菌",
+    "image": "assets/images/2017508.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2017509",
+    "title": "移行上皮细胞（底层）",
+    "image": "assets/images/2017509.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2017510",
+    "title": "磷酸氨镁结晶（三联磷酸盐）",
+    "image": "assets/images/2017510.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2017511",
+    "title": "移行上皮细胞（中层）",
+    "image": "assets/images/2017511.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2017512",
+    "title": "蜡样管型",
+    "image": "assets/images/2017512.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2017513",
+    "title": "移行上皮细胞（表层）",
+    "image": "assets/images/2017513.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2017514",
+    "title": "胆红素结晶",
+    "image": "assets/images/2017514.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2017515",
+    "title": "透明管型",
+    "image": "assets/images/2017515.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2018501",
+    "title": "红细胞",
+    "image": "assets/images/2018501.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2018502",
+    "title": "白细胞管型",
+    "image": "assets/images/2018502.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2018503",
+    "title": "鳞状上皮细胞",
+    "image": "assets/images/2018503.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2018504",
+    "title": "胆固醇结晶",
+    "image": "assets/images/2018504.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2018505",
+    "title": "颗粒管型",
+    "image": "assets/images/2018505.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2018506",
+    "title": "胆红素",
+    "image": "assets/images/2018506.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2018507",
+    "title": "真菌",
+    "image": "assets/images/2018507.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2018508",
+    "title": "白细胞",
+    "image": "assets/images/2018508.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2018509",
+    "title": "透明管型",
+    "image": "assets/images/2018509.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2018510",
+    "title": "红细胞管型 血液管型",
+    "image": "assets/images/2018510.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2018511",
+    "title": "尿酸铵结晶",
+    "image": "assets/images/2018511.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2018512",
+    "title": "蜡样管型",
+    "image": "assets/images/2018512.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2018513",
+    "title": "磷酸氨镁结晶（三联磷酸盐）",
+    "image": "assets/images/2018513.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2018514",
+    "title": "脂肪滴",
+    "image": "assets/images/2018514.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2018515",
+    "title": "粘液丝",
+    "image": "assets/images/2018515.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2019501",
+    "title": "移行上皮细胞（中层）",
+    "image": "assets/images/2019501.jpg",
+    "prompt": "2019-2020年卫健委临检中心"
+  },
+  {
+    "id": "2019502",
+    "title": "磷酸氨镁结晶（三联磷酸盐）",
+    "image": "assets/images/2019502.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2019503",
+    "title": "红细胞管型",
+    "image": "assets/images/2019503.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2019504",
+    "title": "尿酸结晶",
+    "image": "assets/images/2019504.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2019505",
+    "title": "真菌",
+    "image": "assets/images/2019505.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2019506",
+    "title": "红细胞",
+    "image": "assets/images/2019506.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2019507",
+    "title": "血液管型",
+    "image": "assets/images/2019507.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2019508",
+    "title": "",
+    "image": "assets/images/2019508.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2019509",
+    "title": "透明管型",
+    "image": "assets/images/2019509.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2019510",
+    "title": "草酸钙结晶",
+    "image": "assets/images/2019510.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2019511",
+    "title": "颗粒管型",
+    "image": "assets/images/2019511.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2019512",
+    "title": "鳞状上皮细胞",
+    "image": "assets/images/2019512.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2019513",
+    "title": "白细胞管型",
+    "image": "assets/images/2019513.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2019514",
+    "title": "白细胞",
+    "image": "assets/images/2019514.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2019515",
+    "title": "尿酸铵结晶",
+    "image": "assets/images/2019515.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2020501",
+    "title": "白细胞",
+    "image": "assets/images/2020501.jpg",
+    "prompt": "2020503吞噬细胞"
+  },
+  {
+    "id": "2020502",
+    "title": "红细胞",
+    "image": "assets/images/2020502.jpg",
+    "prompt": "2020504移行上皮细胞（中层）"
+  },
+  {
+    "id": "2020503",
+    "title": "吞噬细胞",
+    "image": "assets/images/2020503.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2020504",
+    "title": "移行上皮细胞（中层）",
+    "image": "assets/images/2020504.jpg",
+    "prompt": "204"
+  },
+  {
+    "id": "2020505",
+    "title": "鳞状上皮细胞",
+    "image": "assets/images/2020505.jpg",
+    "prompt": "2020507透明管型"
+  },
+  {
+    "id": "2020506",
+    "title": "真菌菌丝",
+    "image": "assets/images/2020506.jpg",
+    "prompt": "2020508白细胞管型"
+  },
+  {
+    "id": "2020507",
+    "title": "透明管型",
+    "image": "assets/images/2020507.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2020508",
+    "title": "白细胞管型",
+    "image": "assets/images/2020508.jpg",
+    "prompt": "205"
+  },
+  {
+    "id": "2020509",
+    "title": "颗粒管型",
+    "image": "assets/images/2020509.jpg",
+    "prompt": "2020511尿酸铵结晶"
+  },
+  {
+    "id": "2020510",
+    "title": "磷酸氨镁结晶",
+    "image": "assets/images/2020510.jpg",
+    "prompt": "2020512草酸钙结晶"
+  },
+  {
+    "id": "2020511",
+    "title": "尿酸铵结晶",
+    "image": "assets/images/2020511.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2020512",
+    "title": "草酸钙结晶",
+    "image": "assets/images/2020512.jpg",
+    "prompt": "206"
+  },
+  {
+    "id": "2020513",
+    "title": "尿酸结晶",
+    "image": "assets/images/2020513.jpg",
+    "prompt": "2020515精子"
+  },
+  {
+    "id": "2020514",
+    "title": "细菌",
+    "image": "assets/images/2020514.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2020515",
+    "title": "精子",
+    "image": "assets/images/2020515.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2010401",
+    "title": "肺吸虫成虫",
+    "image": "assets/images/2010401.jpg",
+    "prompt": "2010年寄生虫形态学检查"
+  },
+  {
+    "id": "2010402",
+    "title": "跳蚤",
+    "image": "assets/images/2010402.jpg",
+    "prompt": "2010年寄生虫形态学检查"
+  },
+  {
+    "id": "2010403",
+    "title": "白蛉",
+    "image": "assets/images/2010403.jpg",
+    "prompt": "2010年寄生虫形态学检查"
+  },
+  {
+    "id": "2010404",
+    "title": "弓形虫",
+    "image": "assets/images/2010404.jpg",
+    "prompt": "2010年寄生虫形态学检查"
+  },
+  {
+    "id": "2010405",
+    "title": "疟原虫配子体",
+    "image": "assets/images/2010405.jpg",
+    "prompt": "2010年寄生虫形态学检查"
+  },
+  {
+    "id": "2010406",
+    "title": "马来丝虫（微丝蚴）",
+    "image": "assets/images/2010406.jpg",
+    "prompt": "2010年寄生虫形态学检查"
+  },
+  {
+    "id": "2010407",
+    "title": "日本血吸虫（虫卵）",
+    "image": "assets/images/2010407.jpg",
+    "prompt": "2010年寄生虫形态学检查"
+  },
+  {
+    "id": "2010408",
+    "title": "猪肉绦虫头节",
+    "image": "assets/images/2010408.jpg",
+    "prompt": "2010年寄生虫形态学检查"
+  },
+  {
+    "id": "2010409",
+    "title": "蛲虫成虫",
+    "image": "assets/images/2010409.jpg",
+    "prompt": "2010年寄生虫形态学检查"
+  },
+  {
+    "id": "2010410",
+    "title": "疟原虫环状体",
+    "image": "assets/images/2010410.jpg",
+    "prompt": "2010年寄生虫形态学检查"
+  },
+  {
+    "id": "2010411",
+    "title": "疟原虫裂殖体",
+    "image": "assets/images/2010411.jpg",
+    "prompt": "2010年寄生虫形态学检查"
+  },
+  {
+    "id": "2010412",
+    "title": "绦虫（虫卵）",
+    "image": "assets/images/2010412.jpg",
+    "prompt": "2010年寄生虫形态学检查"
+  },
+  {
+    "id": "2010413",
+    "title": "溶组织内阿米巴滋养体 结肠内阿米巴滋养体",
+    "image": "assets/images/2010413.jpg",
+    "prompt": "2010年寄生虫形态学检查"
+  },
+  {
+    "id": "2010414",
+    "title": "锥虫",
+    "image": "assets/images/2010414.jpg",
+    "prompt": "2010年寄生虫形态学检查"
+  },
+  {
+    "id": "2010415",
+    "title": "蛔虫（虫卵）",
+    "image": "assets/images/2010415.jpg",
+    "prompt": "2010年寄生虫形态学检查"
+  },
+  {
+    "id": "2011401",
+    "title": "杜氏利什曼原虫",
+    "image": "assets/images/2011401.jpg",
+    "prompt": "2011年寄生虫形态学检查"
+  },
+  {
+    "id": "2011402",
+    "title": "疟原虫环状体",
+    "image": "assets/images/2011402.jpg",
+    "prompt": "2011年寄生虫形态学检查"
+  },
+  {
+    "id": "2011403",
+    "title": "溶组织内阿米巴包囊",
+    "image": "assets/images/2011403.jpg",
+    "prompt": "2011年寄生虫形态学检查"
+  },
+  {
+    "id": "2011404",
+    "title": "华支睾吸虫（虫卵）",
+    "image": "assets/images/2011404.jpg",
+    "prompt": "2011年寄生虫形态学检查"
+  },
+  {
+    "id": "2011405",
+    "title": "鞭虫（虫卵）",
+    "image": "assets/images/2011405.jpg",
+    "prompt": "2011年寄生虫形态学检查"
+  },
+  {
+    "id": "2011406",
+    "title": "阴道毛滴虫(姬氏染色)  • )",
+    "image": "assets/images/2011406.jpg",
+    "prompt": "2011年寄生虫形态学检查"
+  },
+  {
+    "id": "2011407",
+    "title": "蛔虫（虫卵）",
+    "image": "assets/images/2011407.jpg",
+    "prompt": "2011年寄生虫形态学检查"
+  },
+  {
+    "id": "2011408",
+    "title": "绦虫（虫卵）",
+    "image": "assets/images/2011408.jpg",
+    "prompt": "2011年寄生虫形态学检查"
+  },
+  {
+    "id": "2011409",
+    "title": "植物细胞/植物纤维",
+    "image": "assets/images/2011409.jpg",
+    "prompt": "2011年寄生虫形态学检查"
+  },
+  {
+    "id": "2011410",
+    "title": "肺吸虫（虫卵）",
+    "image": "assets/images/2011410.jpg",
+    "prompt": "2011年寄生虫形态学检查"
+  },
+  {
+    "id": "2011411",
+    "title": "疟原虫裂殖体",
+    "image": "assets/images/2011411.jpg",
+    "prompt": "2011年寄生虫形态学检查"
+  },
+  {
+    "id": "2011412",
+    "title": "弓形虫",
+    "image": "assets/images/2011412.jpg",
+    "prompt": "2011年寄生虫形态学检查"
+  },
+  {
+    "id": "2011413",
+    "title": "牛肉绦虫头节",
+    "image": "assets/images/2011413.jpg",
+    "prompt": "2011年寄生虫形态学检查"
+  },
+  {
+    "id": "2011414",
+    "title": "溶组织内阿米巴滋养体(铁  苏木素染色)",
+    "image": "assets/images/2011414.jpg",
+    "prompt": "2011年寄生虫形态学检查"
+  },
+  {
+    "id": "2011415",
+    "title": "旋毛虫",
+    "image": "assets/images/2011415.jpg",
+    "prompt": "2011年寄生虫形态学检查"
+  },
+  {
+    "id": "2012401",
+    "title": "绦虫（虫卵）",
+    "image": "assets/images/2012401.jpg",
+    "prompt": "2011年寄生虫形态学检查"
+  },
+  {
+    "id": "2012402",
+    "title": "疟原虫环状体 疟原虫滋养体",
+    "image": "assets/images/2012402.jpg",
+    "prompt": "2012年寄生虫形态学检查"
+  },
+  {
+    "id": "2012403",
+    "title": "马来丝虫（微丝蚴）",
+    "image": "assets/images/2012403.jpg",
+    "prompt": "2012年寄生虫形态学检查"
+  },
+  {
+    "id": "2012404",
+    "title": "人虱",
+    "image": "assets/images/2012404.jpg",
+    "prompt": "2012年寄生虫形态学检查"
+  },
+  {
+    "id": "2012405",
+    "title": "阴道毛滴虫",
+    "image": "assets/images/2012405.jpg",
+    "prompt": "2012年寄生虫形态学检查"
+  },
+  {
+    "id": "2012406",
+    "title": "跳蚤",
+    "image": "assets/images/2012406.jpg",
+    "prompt": "2012年寄生虫形态学检查"
+  },
+  {
+    "id": "2012407",
+    "title": "猪肉绦虫头节",
+    "image": "assets/images/2012407.jpg",
+    "prompt": "2012年寄生虫形态学检查"
+  },
+  {
+    "id": "2012408",
+    "title": "旋毛虫",
+    "image": "assets/images/2012408.jpg",
+    "prompt": "2012年寄生虫形态学检查"
+  },
+  {
+    "id": "2012409",
+    "title": "溶组织内阿米巴包囊",
+    "image": "assets/images/2012409.jpg",
+    "prompt": "2012年寄生虫形态学检查"
+  },
+  {
+    "id": "2012410",
+    "title": "钩虫（虫卵）",
+    "image": "assets/images/2012410.jpg",
+    "prompt": "2012年寄生虫形态学检查"
+  },
+  {
+    "id": "2012411",
+    "title": "鞭虫（虫卵）",
+    "image": "assets/images/2012411.jpg",
+    "prompt": "2012年寄生虫形态学检查"
+  },
+  {
+    "id": "2012412",
+    "title": "肺吸虫（虫卵）",
+    "image": "assets/images/2012412.jpg",
+    "prompt": "2012年寄生虫形态学检查"
+  },
+  {
+    "id": "2012413",
+    "title": "布氏姜片吸虫（虫卵）",
+    "image": "assets/images/2012413.jpg",
+    "prompt": "2012年寄生虫形态学检查"
+  },
+  {
+    "id": "2012414",
+    "title": "蛲虫（虫卵）",
+    "image": "assets/images/2012414.jpg",
+    "prompt": "2012年寄生虫形态学检查"
+  },
+  {
+    "id": "2012415",
+    "title": "日本血吸虫（虫卵）",
+    "image": "assets/images/2012415.jpg",
+    "prompt": "2012年寄生虫形态学检查"
+  },
+  {
+    "id": "2013401",
+    "title": "疟原虫环状体",
+    "image": "assets/images/2013401.jpg",
+    "prompt": "2013年寄生虫形态学检查"
+  },
+  {
+    "id": "2013402",
+    "title": "疟原虫裂殖体",
+    "image": "assets/images/2013402.jpg",
+    "prompt": "2013年寄生虫形态学检查"
+  },
+  {
+    "id": "20134032013403",
+    "title": "杜氏利什曼原虫",
+    "image": "assets/images/20134032013403.jpg",
+    "prompt": "2013年寄生虫形态学检查"
+  },
+  {
+    "id": "2013404",
+    "title": "耻阴虱",
+    "image": "assets/images/2013404.jpg",
+    "prompt": "2013年寄生虫形态学检查"
+  },
+  {
+    "id": "2013405",
+    "title": "牛肉绦虫头节",
+    "image": "assets/images/2013405.jpg",
+    "prompt": "2013年寄生虫形态学检查"
+  },
+  {
+    "id": "2013406",
+    "title": "蛔虫（虫卵）",
+    "image": "assets/images/2013406.jpg",
+    "prompt": "2013年寄生虫形态学检查"
+  },
+  {
+    "id": "2013407",
+    "title": "华支睾吸虫成虫",
+    "image": "assets/images/2013407.jpg",
+    "prompt": "2013年寄生虫形态学检查"
+  },
+  {
+    "id": "2013408",
+    "title": "马来丝虫（微丝蚴）",
+    "image": "assets/images/2013408.jpg",
+    "prompt": "2013年寄生虫形态学检查"
+  },
+  {
+    "id": "2013409",
+    "title": "鞭虫（虫卵）",
+    "image": "assets/images/2013409.jpg",
+    "prompt": "2013年寄生虫形态学检查"
+  },
+  {
+    "id": "2013410",
+    "title": "肺吸虫（虫卵）",
+    "image": "assets/images/2013410.jpg",
+    "prompt": "2013年寄生虫形态学检查"
+  },
+  {
+    "id": "2013411",
+    "title": "华支睾吸虫（虫卵）",
+    "image": "assets/images/2013411.jpg",
+    "prompt": "2013年寄生虫形态学检查"
+  },
+  {
+    "id": "2013412",
+    "title": "钩虫（虫卵）",
+    "image": "assets/images/2013412.jpg",
+    "prompt": "2013年寄生虫形态学检查"
+  },
+  {
+    "id": "2013413",
+    "title": "结肠内阿米巴包囊",
+    "image": "assets/images/2013413.jpg",
+    "prompt": "2013年寄生虫形态学检查"
+  },
+  {
+    "id": "2013414",
+    "title": "日本血吸虫（虫卵）",
+    "image": "assets/images/2013414.jpg",
+    "prompt": "2013年寄生虫形态学检查"
+  },
+  {
+    "id": "2013415",
+    "title": "2013415绦虫（虫卵）",
+    "image": "assets/images/2013415.jpg",
+    "prompt": "2013年寄生虫形态学检查"
+  },
+  {
+    "id": "2014401",
+    "title": "疟原虫滋养体",
+    "image": "assets/images/2014401.jpg",
+    "prompt": "2013年寄生虫形态学检查"
+  },
+  {
+    "id": "2014402",
+    "title": "阴道毛滴虫",
+    "image": "assets/images/2014402.jpg",
+    "prompt": "2014年寄生虫形态学检查"
+  },
+  {
+    "id": "2014403",
+    "title": "杜氏利什曼原虫",
+    "image": "assets/images/2014403.jpg",
+    "prompt": "2014年寄生虫形态学检查"
+  },
+  {
+    "id": "2014404",
+    "title": "人虱",
+    "image": "assets/images/2014404.jpg",
+    "prompt": "2014年寄生虫形态学检查"
+  },
+  {
+    "id": "2014405",
+    "title": "旋毛虫",
+    "image": "assets/images/2014405.jpg",
+    "prompt": "2014年寄生虫形态学检查"
+  },
+  {
+    "id": "2014406",
+    "title": "蛔虫（虫卵）",
+    "image": "assets/images/2014406.jpg",
+    "prompt": "2014年寄生虫形态学检查"
+  },
+  {
+    "id": "2014407",
+    "title": "弓形虫",
+    "image": "assets/images/2014407.jpg",
+    "prompt": "2014年寄生虫形态学检查"
+  },
+  {
+    "id": "2014408",
+    "title": "班氏丝虫（微丝蚴）",
+    "image": "assets/images/2014408.jpg",
+    "prompt": "2014年寄生虫形态学检查"
+  },
+  {
+    "id": "2014409",
+    "title": "绦虫（虫卵）",
+    "image": "assets/images/2014409.jpg",
+    "prompt": "2014年寄生虫形态学检查"
+  },
+  {
+    "id": "2014410",
+    "title": "锥虫",
+    "image": "assets/images/2014410.jpg",
+    "prompt": "• 2014411疟原虫雄性配子体 、疟原虫雌性配子体、 疟原虫配子体"
+  },
+  {
+    "id": "2014411",
+    "title": "疟原虫雄性配子体 、疟原虫雌性配子体、 疟原虫配子体",
+    "image": "assets/images/2014411.jpg",
+    "prompt": "2014年寄生虫形态学检查"
+  },
+  {
+    "id": "2014412",
+    "title": "布氏姜片吸虫（虫卵）",
+    "image": "assets/images/2014412.jpg",
+    "prompt": "2014年寄生虫形态学检查"
+  },
+  {
+    "id": "2014413",
+    "title": "溶组织内阿米巴滋养体",
+    "image": "assets/images/2014413.jpg",
+    "prompt": "2014年寄生虫形态学检查"
+  },
+  {
+    "id": "2014414",
+    "title": "日本血吸虫（虫卵）",
+    "image": "assets/images/2014414.jpg",
+    "prompt": "2014年寄生虫形态学检查"
+  },
+  {
+    "id": "2014415",
+    "title": "螨虫 、 疥螨",
+    "image": "assets/images/2014415.jpg",
+    "prompt": "2014年寄生虫形态学检查"
+  },
+  {
+    "id": "2015401",
+    "title": "疟原虫滋养体",
+    "image": "assets/images/2015401.jpg",
+    "prompt": "2015年寄生虫形态学检查"
+  },
+  {
+    "id": "2015402",
+    "title": "弓形虫",
+    "image": "assets/images/2015402.jpg",
+    "prompt": "2015年寄生虫形态学检查"
+  },
+  {
+    "id": "2015403",
+    "title": "锥虫",
+    "image": "assets/images/2015403.jpg",
+    "prompt": "2015年寄生虫形态学检查"
+  },
+  {
+    "id": "2015404",
+    "title": "华支睾吸虫（虫卵）",
+    "image": "assets/images/2015404.jpg",
+    "prompt": "2015年寄生虫形态学检查"
+  },
+  {
+    "id": "2015405",
+    "title": "鞭虫（虫卵）",
+    "image": "assets/images/2015405.jpg",
+    "prompt": "2015年寄生虫形态学检查"
+  },
+  {
+    "id": "2015406",
+    "title": "蛔虫（虫卵）",
+    "image": "assets/images/2015406.jpg",
+    "prompt": "2015年寄生虫形态学检查"
+  },
+  {
+    "id": "2015407",
+    "title": "肺吸虫（虫卵）",
+    "image": "assets/images/2015407.jpg",
+    "prompt": "2015年寄生虫形态学检查"
+  },
+  {
+    "id": "2015408",
+    "title": "日本血吸虫（虫卵）",
+    "image": "assets/images/2015408.jpg",
+    "prompt": "2015年寄生虫形态学检查"
+  },
+  {
+    "id": "2015409",
+    "title": "钩虫（虫卵）",
+    "image": "assets/images/2015409.jpg",
+    "prompt": "2015年寄生虫形态学检查"
+  },
+  {
+    "id": "2015410",
+    "title": "疟原虫裂殖体",
+    "image": "assets/images/2015410.jpg",
+    "prompt": "2015年寄生虫形态学检查"
+  },
+  {
+    "id": "2015411",
+    "title": "蛲虫（虫卵）",
+    "image": "assets/images/2015411.jpg",
+    "prompt": "2015年寄生虫形态学检查"
+  },
+  {
+    "id": "2015412",
+    "title": "旋毛虫",
+    "image": "assets/images/2015412.jpg",
+    "prompt": "2015年寄生虫形态学检查"
+  },
+  {
+    "id": "2015413",
+    "title": "结肠内阿米巴滋养体",
+    "image": "assets/images/2015413.jpg",
+    "prompt": "2015年寄生虫形态学检查"
+  },
+  {
+    "id": "2015414",
+    "title": "日本血吸虫成虫",
+    "image": "assets/images/2015414.jpg",
+    "prompt": "2015年寄生虫形态学检查"
+  },
+  {
+    "id": "2015415",
+    "title": "蛔虫（虫卵）",
+    "image": "assets/images/2015415.jpg",
+    "prompt": "2015年寄生虫形态学检查"
+  },
+  {
+    "id": "2016401",
+    "title": "布氏姜片吸虫（虫卵）",
+    "image": "assets/images/2016401.jpg",
+    "prompt": "2015年寄生虫形态学检查"
+  },
+  {
+    "id": "2016402",
+    "title": "华支睾吸虫成虫",
+    "image": "assets/images/2016402.jpg",
+    "prompt": "2016年寄生虫形态学检查"
+  },
+  {
+    "id": "2016403",
+    "title": "日本血吸虫成虫",
+    "image": "assets/images/2016403.jpg",
+    "prompt": "2016年寄生虫形态学检查"
+  },
+  {
+    "id": "2016404",
+    "title": "日本血吸虫（虫卵）",
+    "image": "assets/images/2016404.jpg",
+    "prompt": "2016年寄生虫形态学检查"
+  },
+  {
+    "id": "2016405",
+    "title": "马来丝虫（微丝蚴）",
+    "image": "assets/images/2016405.jpg",
+    "prompt": "2016年寄生虫形态学检查"
+  },
+  {
+    "id": "2016406",
+    "title": "蛔虫（虫卵）",
+    "image": "assets/images/2016406.jpg",
+    "prompt": "2016年寄生虫形态学检查"
+  },
+  {
+    "id": "2016407",
+    "title": "牛肉绦虫孕节",
+    "image": "assets/images/2016407.jpg",
+    "prompt": "2016年寄生虫形态学检查"
+  },
+  {
+    "id": "2016408",
+    "title": "锥虫",
+    "image": "assets/images/2016408.jpg",
+    "prompt": "2016年寄生虫形态学检查"
+  },
+  {
+    "id": "2016409",
+    "title": "旋毛虫",
+    "image": "assets/images/2016409.jpg",
+    "prompt": "2016年寄生虫形态学检查"
+  },
+  {
+    "id": "2016410",
+    "title": "疟原虫滋养体",
+    "image": "assets/images/2016410.jpg",
+    "prompt": "2016年寄生虫形态学检查"
+  },
+  {
+    "id": "2016411",
+    "title": "肺吸虫（虫卵）",
+    "image": "assets/images/2016411.jpg",
+    "prompt": "2016年寄生虫形态学检查"
+  },
+  {
+    "id": "2016412",
+    "title": "杜氏利什曼原虫",
+    "image": "assets/images/2016412.jpg",
+    "prompt": "2016年寄生虫形态学检查"
+  },
+  {
+    "id": "2016413",
+    "title": "肺吸虫成虫",
+    "image": "assets/images/2016413.jpg",
+    "prompt": "2016年寄生虫形态学检查"
+  },
+  {
+    "id": "2016414",
+    "title": "华支睾吸虫（虫卵）",
+    "image": "assets/images/2016414.jpg",
+    "prompt": "2016年寄生虫形态学检查"
+  },
+  {
+    "id": "2016415",
+    "title": "疟原虫配子体",
+    "image": "assets/images/2016415.jpg",
+    "prompt": "2016年寄生虫形态学检查"
+  },
+  {
+    "id": "2017401",
+    "title": "肺吸虫（虫卵）",
+    "image": "assets/images/2017401.jpg",
+    "prompt": "2017年寄生虫形态学检查"
+  },
+  {
+    "id": "2017402",
+    "title": "华支睾吸虫成虫",
+    "image": "assets/images/2017402.jpg",
+    "prompt": "2017年寄生虫形态学检查"
+  },
+  {
+    "id": "2017403",
+    "title": "日本血吸虫成虫",
+    "image": "assets/images/2017403.jpg",
+    "prompt": "2017年寄生虫形态学检查"
+  },
+  {
+    "id": "2017404",
+    "title": "蛔虫（虫卵）",
+    "image": "assets/images/2017404.jpg",
+    "prompt": "2017年寄生虫形态学检查"
+  },
+  {
+    "id": "2017405",
+    "title": "马来丝虫（微丝蚴）",
+    "image": "assets/images/2017405.jpg",
+    "prompt": "2017年寄生虫形态学检查"
+  },
+  {
+    "id": "2017406",
+    "title": "鞭虫成虫",
+    "image": "assets/images/2017406.jpg",
+    "prompt": "2017年寄生虫形态学检查"
+  },
+  {
+    "id": "2017407",
+    "title": "猪肉绦虫孕节",
+    "image": "assets/images/2017407.jpg",
+    "prompt": "2017年寄生虫形态学检查"
+  },
+  {
+    "id": "2017408",
+    "title": "锥虫",
+    "image": "assets/images/2017408.jpg",
+    "prompt": "2017年寄生虫形态学检查"
+  },
+  {
+    "id": "2017409",
+    "title": "疟原虫环状体",
+    "image": "assets/images/2017409.jpg",
+    "prompt": "2017年寄生虫形态学检查"
+  },
+  {
+    "id": "2017410",
+    "title": "蓝氏贾第鞭毛虫滋养体",
+    "image": "assets/images/2017410.jpg",
+    "prompt": "2017年寄生虫形态学检查"
+  },
+  {
+    "id": "2017411",
+    "title": "蛔虫成虫",
+    "image": "assets/images/2017411.jpg",
+    "prompt": "2017年寄生虫形态学检查"
+  },
+  {
+    "id": "2017412",
+    "title": "人虱",
+    "image": "assets/images/2017412.jpg",
+    "prompt": "2017年寄生虫形态学检查"
+  },
+  {
+    "id": "2017413",
+    "title": "肺吸虫成虫",
+    "image": "assets/images/2017413.jpg",
+    "prompt": "2017年寄生虫形态学检查"
+  },
+  {
+    "id": "2017414",
+    "title": "鞭虫（虫卵）",
+    "image": "assets/images/2017414.jpg",
+    "prompt": "2017年寄生虫形态学检查"
+  },
+  {
+    "id": "2017415",
+    "title": "华支睾吸虫（虫卵）",
+    "image": "assets/images/2017415.jpg",
+    "prompt": "2017年寄生虫形态学检查"
+  },
+  {
+    "id": "2018401",
+    "title": "疟原虫环状体",
+    "image": "assets/images/2018401.jpg",
+    "prompt": "2017年寄生虫形态学检查"
+  },
+  {
+    "id": "2018402",
+    "title": "弓形虫",
+    "image": "assets/images/2018402.jpg",
+    "prompt": "2018年寄生虫形态学检查"
+  },
+  {
+    "id": "2018403",
+    "title": "微丝蚴（班氏）",
+    "image": "assets/images/2018403.jpg",
+    "prompt": "2018年寄生虫形态学检查"
+  },
+  {
+    "id": "2018404",
+    "title": "鞭虫虫卵",
+    "image": "assets/images/2018404.jpg",
+    "prompt": "2018年寄生虫形态学检查"
+  },
+  {
+    "id": "2018405",
+    "title": "华支睾吸虫虫卵",
+    "image": "assets/images/2018405.jpg",
+    "prompt": "2018年寄生虫形态学检查"
+  },
+  {
+    "id": "2018406",
+    "title": "结肠内阿米巴包囊",
+    "image": "assets/images/2018406.jpg",
+    "prompt": "2018年寄生虫形态学检查"
+  },
+  {
+    "id": "2018407",
+    "title": "钩虫虫卵",
+    "image": "assets/images/2018407.jpg",
+    "prompt": "2018年寄生虫形态学检查"
+  },
+  {
+    "id": "2018408",
+    "title": "绦虫虫卵",
+    "image": "assets/images/2018408.jpg",
+    "prompt": "2018年寄生虫形态学检查"
+  },
+  {
+    "id": "2018409",
+    "title": "蛔虫虫卵",
+    "image": "assets/images/2018409.jpg",
+    "prompt": "2018年寄生虫形态学检查"
+  },
+  {
+    "id": "2018410",
+    "title": "布氏姜片虫虫卵",
+    "image": "assets/images/2018410.jpg",
+    "prompt": "2018年寄生虫形态学检查"
+  },
+  {
+    "id": "2018411",
+    "title": "日本血吸虫虫卵",
+    "image": "assets/images/2018411.jpg",
+    "prompt": "2018年寄生虫形态学检查"
+  },
+  {
+    "id": "2018412",
+    "title": "华支睾吸虫成虫",
+    "image": "assets/images/2018412.jpg",
+    "prompt": "2018年寄生虫形态学检查"
+  },
+  {
+    "id": "2018413",
+    "title": "牛肉绦虫孕节",
+    "image": "assets/images/2018413.jpg",
+    "prompt": "2018年寄生虫形态学检查"
+  },
+  {
+    "id": "2018414",
+    "title": "鞭虫成虫",
+    "image": "assets/images/2018414.jpg",
+    "prompt": "2018年寄生虫形态学检查"
+  },
+  {
+    "id": "2018415",
+    "title": "肺吸虫成虫",
+    "image": "assets/images/2018415.jpg",
+    "prompt": "2018年寄生虫形态学检查"
+  },
+  {
+    "id": "2019401",
+    "title": "蛲虫（虫卵）",
+    "image": "assets/images/2019401.jpg",
+    "prompt": "2019403锥虫"
+  },
+  {
+    "id": "2019402",
+    "title": "杜氏利什曼原虫",
+    "image": "assets/images/2019402.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2019403",
+    "title": "锥虫",
+    "image": "assets/images/2019403.jpg",
+    "prompt": "242"
+  },
+  {
+    "id": "2019404",
+    "title": "蛲虫成虫",
+    "image": "assets/images/2019404.jpg",
+    "prompt": "请报告图片中箭头所指对象的名称（卡红染色，大小约为（11mm×0.4mm）"
+  },
+  {
+    "id": "2019405",
+    "title": "疟原虫配子体",
+    "image": "assets/images/2019405.jpg",
+    "prompt": "请报告图片中箭头所指对象的名称"
+  },
+  {
+    "id": "2019406",
+    "title": "华支睾吸虫（虫卵）",
+    "image": "assets/images/2019406.jpg",
+    "prompt": "请报告图片中箭头所指对象的名称（大小约为150µm×60µm）"
+  },
+  {
+    "id": "2019407",
+    "title": "埃及血吸虫（虫卵）",
+    "image": "assets/images/2019407.jpg",
+    "prompt": "请报告图片中箭头所指对象的名称（大小约为150µm×60µm）"
+  },
+  {
+    "id": "2019408",
+    "title": "钩虫（虫卵）",
+    "image": "assets/images/2019408.jpg",
+    "prompt": "2019410蛔虫（虫卵）"
+  },
+  {
+    "id": "2019409",
+    "title": "日本血吸虫（成虫）",
+    "image": "assets/images/2019409.jpg",
+    "prompt": "请报告图片中箭头所指对象的名称（卡红染色，大小约为20mm×0.5mm.）"
+  },
+  {
+    "id": "2019410",
+    "title": "蛔虫（虫卵）",
+    "image": "assets/images/2019410.jpg",
+    "prompt": "请报告图片中箭头所指对象的名称（大小约为60µm×45µm）"
+  },
+  {
+    "id": "2019411",
+    "title": "卫氏并殖吸虫（成虫）",
+    "image": "assets/images/2019411.jpg",
+    "prompt": "请报告图片中箭头所指对象的名称（卡红染色，大小约为10mm×5mm）"
+  },
+  {
+    "id": "2019412",
+    "title": "疟原虫环状体",
+    "image": "assets/images/2019412.jpg",
+    "prompt": "请报告图片中箭头所指对象的名称"
+  },
+  {
+    "id": "2019413",
+    "title": "布氏姜片吸虫（虫卵）",
+    "image": "assets/images/2019413.jpg",
+    "prompt": "请报告图片中箭头所指对象的名称（大小约为135µm×85µm）"
+  },
+  {
+    "id": "2019414",
+    "title": "猪肉绦虫头节",
+    "image": "assets/images/2019414.jpg",
+    "prompt": "请报告图片中箭头所指对象的名称（卡红染色）"
+  },
+  {
+    "id": "2019415",
+    "title": "溶组织内阿米巴滋养体",
+    "image": "assets/images/2019415.jpg",
+    "prompt": "请报告图片中箭头所指对象的名称（铁苏木素染色，直径10~60µm）"
+  },
+  {
+    "id": "2020401",
+    "title": "蓝氏贾第鞭毛虫滋养体",
+    "image": "assets/images/2020401.jpg",
+    "prompt": "2020403锥虫"
+  },
+  {
+    "id": "2020402",
+    "title": "结肠内阿米巴包囊",
+    "image": "assets/images/2020402.jpg",
+    "prompt": "2020404疟原虫环状体"
+  },
+  {
+    "id": "2020403",
+    "title": "锥虫",
+    "image": "assets/images/2020403.jpg",
+    "prompt": "246"
+  },
+  {
+    "id": "2020404",
+    "title": "疟原虫环状体",
+    "image": "assets/images/2020404.jpg",
+    "prompt": "246"
+  },
+  {
+    "id": "2020405",
+    "title": "疟原虫大滋养体",
+    "image": "assets/images/2020405.jpg",
+    "prompt": "2020407绦虫（虫卵）"
+  },
+  {
+    "id": "2020406",
+    "title": "马来丝虫（微丝蚴）",
+    "image": "assets/images/2020406.jpg",
+    "prompt": "2020408日本血吸虫（虫卵）"
+  },
+  {
+    "id": "2020407",
+    "title": "绦虫（虫卵）",
+    "image": "assets/images/2020407.jpg",
+    "prompt": "247"
+  },
+  {
+    "id": "2020408",
+    "title": "日本血吸虫（虫卵）",
+    "image": "assets/images/2020408.jpg",
+    "prompt": "247"
+  },
+  {
+    "id": "2020409",
+    "title": "肺吸虫（虫卵）",
+    "image": "assets/images/2020409.jpg",
+    "prompt": "2020411钩虫成虫"
+  },
+  {
+    "id": "2020410",
+    "title": "蛲虫成虫",
+    "image": "assets/images/2020410.jpg",
+    "prompt": "2020412华支睾吸虫成虫"
+  },
+  {
+    "id": "2020411",
+    "title": "钩虫成虫",
+    "image": "assets/images/2020411.jpg",
+    "prompt": "248"
+  },
+  {
+    "id": "2020412",
+    "title": "华支睾吸虫成虫",
+    "image": "assets/images/2020412.jpg",
+    "prompt": "248"
+  },
+  {
+    "id": "2020413",
+    "title": "猪肉绦虫头节",
+    "image": "assets/images/2020413.jpg",
+    "prompt": "2020415阴道毛滴虫"
+  },
+  {
+    "id": "2020414",
+    "title": "跳蚤",
+    "image": "assets/images/2020414.jpg",
+    "prompt": "2021401疟原虫环状体"
+  },
+  {
+    "id": "2020415",
+    "title": "阴道毛滴虫",
+    "image": "assets/images/2020415.jpg",
+    "prompt": "249"
+  },
+  {
+    "id": "2021401",
+    "title": "疟原虫环状体",
+    "image": "assets/images/2021401.jpg",
+    "prompt": "249"
+  },
+  {
+    "id": "2021402",
+    "title": "疟原虫裂殖体",
+    "image": "assets/images/2021402.jpg",
+    "prompt": "2021404锥虫"
+  },
+  {
+    "id": "2021403",
+    "title": "杜氏利什曼原虫",
+    "image": "assets/images/2021403.jpg",
+    "prompt": "2021405鞭虫（虫卵）"
+  },
+  {
+    "id": "2021404",
+    "title": "锥虫",
+    "image": "assets/images/2021404.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2021405",
+    "title": "鞭虫（虫卵）",
+    "image": "assets/images/2021405.jpg",
+    "prompt": "250"
+  },
+  {
+    "id": "2021406",
+    "title": "蛔虫（虫卵）",
+    "image": "assets/images/2021406.jpg",
+    "prompt": "2021408班氏微丝蚴"
+  },
+  {
+    "id": "2021407",
+    "title": "绦虫（虫卵）",
+    "image": "assets/images/2021407.jpg",
+    "prompt": "2021409蓝氏贾第鞭毛虫滋养体"
+  },
+  {
+    "id": "2021408",
+    "title": "班氏微丝蚴",
+    "image": "assets/images/2021408.jpg",
+    "prompt": "请报告图片中箭头所指对象的名称（大小约为250μm×5μm）（瑞氏-吉姆萨染色）"
+  },
+  {
+    "id": "2021409",
+    "title": "蓝氏贾第鞭毛虫滋养体",
+    "image": "assets/images/2021409.jpg",
+    "prompt": "251"
+  },
+  {
+    "id": "2021410",
+    "title": "阴道毛滴虫",
+    "image": "assets/images/2021410.jpg",
+    "prompt": "2021412牛肉绦虫孕节"
+  },
+  {
+    "id": "2021411",
+    "title": "猪肉绦虫头节",
+    "image": "assets/images/2021411.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2021412",
+    "title": "牛肉绦虫孕节",
+    "image": "assets/images/2021412.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2021413",
+    "title": "华支睾吸虫成虫",
+    "image": "assets/images/2021413.jpg",
+    "prompt": "请报告图片中对象的名称（大小约为20mm×5mm）"
+  },
+  {
+    "id": "2021414",
+    "title": "旋毛虫",
+    "image": "assets/images/2021414.jpg",
+    "prompt": "请报告图片中对象的名称"
+  },
+  {
+    "id": "2021415",
+    "title": "Charcot-Leydon结晶",
+    "image": "assets/images/2021415.jpg",
+    "prompt": "请报告图片中对象的名称"
+  }
+]
