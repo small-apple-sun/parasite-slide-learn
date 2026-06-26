@@ -4,6 +4,26 @@
 
 工程习惯与常见静态识图站一致：`file://` 下用内嵌题库兜底、相对路径、复习本与快捷键。
 
+## 访问门禁（多账号登录）
+
+打开页面前可要求**账号 + 密码**，适合把公网链接发给约十人、每人不同口令（配置在 `auth-config.js`）。
+
+1. 编辑 [`auth-config.js`](auth-config.js)，在 `users` 数组里为每人加一行，**只写用户名和密码的 SHA-256 哈希（小写十六进制），不要写明文密码**。
+2. 在本目录生成哈希（把引号里的内容换成真实密码，可重复执行多次对应多个账号）：
+
+   ```bash
+   node tools/hash_password.js "你的密码"
+   ```
+
+3. 将输出的 64 位十六进制填入对应账号的 `passwordSha256Hex`。
+4. **`users` 留空数组 `[]` 表示不启用登录**（本地开发或与旧版一致）。
+5. 部署到 GitHub Pages 时须**一并提交** `auth-config.js`、`auth.js`；登录状态记在浏览器 **`sessionStorage`**（关标签页后需重登）。顶栏 **「退出登录」** 可清除本会话。
+6. **复习本、统计、音效、搜索关键词、连对计数**等本地数据会带上当前登录账号（如 `parasiteSlideLearn_stats__a`），**同一浏览器内不同账号进度互不干扰**。切换账号重新登录后会刷新页面以加载对应进度。
+
+当前默认配置了 **10 个账号** `a`～`j`，密码均为 `123`（与显微识图站一致，可按需修改）。
+
+参考模板：[`auth-config.example.js`](auth-config.example.js)。
+
 ## 本地预览（推荐）
 
 ```bash
@@ -55,7 +75,7 @@ python3 tools/extract_slides.py extract 你的文件.pdf --clear
 
 ## 分享 zip
 
-可去掉原始 `pdfs/`、`tools/`（若接收方不需要再抽题），保留 `index.html`、`styles.css`、`app.js`、`data/`（含 `slides.json`，若需离线双击再加 `slides.embed.js`）、`assets/`。
+可去掉原始 `pdfs/`、`tools/`（若接收方不需要再抽题），保留 `index.html`、`styles.css`、`app.js`、`auth.js`、`auth-config.js`、`data/`（含 `slides.json`，若需离线双击再加 `slides.embed.js`）、`assets/`。
 
 ## 部署到 GitHub Pages
 

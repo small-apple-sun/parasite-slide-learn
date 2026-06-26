@@ -15,6 +15,62 @@
   const STREAK_SESSION_KEY = "parasiteSlideLearn_knowStreak";
   const SEARCH_STORAGE_KEY = "parasiteSlideLearn_searchQuery";
 
+  function userStorageKey(base) {
+    const fn = window.__PARASITE_SLIDE_STORAGE_KEY__;
+    return typeof fn === "function" ? fn(base) : base;
+  }
+
+  function getLocalItem(base) {
+    try {
+      const scoped = userStorageKey(base);
+      let v = localStorage.getItem(scoped);
+      if (v == null && scoped !== base) v = localStorage.getItem(base);
+      return v;
+    } catch {
+      return null;
+    }
+  }
+
+  function setLocalItem(base, value) {
+    try {
+      localStorage.setItem(userStorageKey(base), value);
+    } catch {
+      /* quota */
+    }
+  }
+
+  function removeLocalItem(base) {
+    try {
+      localStorage.removeItem(userStorageKey(base));
+    } catch {
+      /* ignore */
+    }
+  }
+
+  function getSessionItem(base) {
+    try {
+      return sessionStorage.getItem(userStorageKey(base));
+    } catch {
+      return null;
+    }
+  }
+
+  function setSessionItem(base, value) {
+    try {
+      sessionStorage.setItem(userStorageKey(base), value);
+    } catch {
+      /* ignore */
+    }
+  }
+
+  function removeSessionItem(base) {
+    try {
+      sessionStorage.removeItem(userStorageKey(base));
+    } catch {
+      /* ignore */
+    }
+  }
+
   /** 俗称 / 简写 → 题库中可能出现的写法（命中任一即算匹配） */
   const SEARCH_SYNONYMS = {
     肝吸虫: ["肝吸虫", "华支睾吸虫", "华支睾"],
@@ -196,7 +252,7 @@
 
   function getKnowStreak() {
     try {
-      const v = sessionStorage.getItem(STREAK_SESSION_KEY);
+      const v = getSessionItem(STREAK_SESSION_KEY);
       const n = parseInt(v, 10);
       return Number.isFinite(n) && n > 0 ? n : 0;
     } catch {
@@ -206,8 +262,8 @@
 
   function setKnowStreak(n) {
     try {
-      if (n <= 0) sessionStorage.removeItem(STREAK_SESSION_KEY);
-      else sessionStorage.setItem(STREAK_SESSION_KEY, String(n));
+      if (n <= 0) removeSessionItem(STREAK_SESSION_KEY);
+      else setSessionItem(STREAK_SESSION_KEY, String(n));
     } catch {
       /* ignore */
     }
@@ -325,7 +381,7 @@
 
   function loadNeedReview() {
     try {
-      const raw = localStorage.getItem(REVIEW_KEY);
+      const raw = getLocalItem(REVIEW_KEY);
       if (!raw) return new Set();
       const p = JSON.parse(raw);
       if (p && Array.isArray(p.ids)) {
@@ -339,7 +395,7 @@
 
   function saveNeedReview() {
     try {
-      localStorage.setItem(
+      setLocalItem(
         REVIEW_KEY,
         JSON.stringify({ ids: Array.from(needReview) })
       );
@@ -462,8 +518,8 @@
       searchSaveTimer = null;
       try {
         const v = getSearchQuery();
-        if (v) localStorage.setItem(SEARCH_STORAGE_KEY, v);
-        else localStorage.removeItem(SEARCH_STORAGE_KEY);
+        if (v) setLocalItem(SEARCH_STORAGE_KEY, v);
+        else removeLocalItem(SEARCH_STORAGE_KEY);
       } catch {
         /* ignore */
       }
@@ -504,7 +560,7 @@
 
   function loadStats() {
     try {
-      const raw = localStorage.getItem(STORAGE_KEY);
+      const raw = getLocalItem(STORAGE_KEY);
       if (!raw) return { day: todayStr(), viewsToday: 0, idCounts: {} };
       const p = JSON.parse(raw);
       const day = typeof p.day === "string" ? p.day : todayStr();
@@ -520,7 +576,7 @@
 
   function saveStats(s) {
     try {
-      localStorage.setItem(STORAGE_KEY, JSON.stringify(s));
+      setLocalItem(STORAGE_KEY, JSON.stringify(s));
     } catch {
       /* ignore quota */
     }
@@ -889,7 +945,7 @@
   function wireUi() {
     needReview = loadNeedReview();
     try {
-      const s = localStorage.getItem(SOUND_KEY);
+      const s = getLocalItem(SOUND_KEY);
       if (s === "0" && el.soundOn) el.soundOn.checked = false;
     } catch {
       /* ignore */
@@ -897,7 +953,7 @@
     if (el.soundOn) {
       el.soundOn.addEventListener("change", function () {
         try {
-          localStorage.setItem(SOUND_KEY, el.soundOn.checked ? "1" : "0");
+          setLocalItem(SOUND_KEY, el.soundOn.checked ? "1" : "0");
         } catch {
           /* ignore */
         }
@@ -940,7 +996,7 @@
           e.preventDefault();
           el.deckSearch.value = "";
           try {
-            localStorage.removeItem(SEARCH_STORAGE_KEY);
+          removeLocalItem(SEARCH_STORAGE_KEY);
           } catch {
             /* ignore */
           }
@@ -953,7 +1009,7 @@
       el.btnSearchClear.addEventListener("click", function () {
         if (el.deckSearch) el.deckSearch.value = "";
         try {
-          localStorage.removeItem(SEARCH_STORAGE_KEY);
+        removeLocalItem(SEARCH_STORAGE_KEY);
         } catch {
           /* ignore */
         }
@@ -973,7 +1029,7 @@
     try {
       allItems = await tryLoadSlidesData();
       try {
-        const savedQ = localStorage.getItem(SEARCH_STORAGE_KEY);
+        const savedQ = getLocalItem(SEARCH_STORAGE_KEY);
         if (savedQ && el.deckSearch) el.deckSearch.value = savedQ;
       } catch {
         /* ignore */
@@ -994,5 +1050,5 @@
     }
   }
 
-  init();
+  window.__PARASITE_SLIDE_START__ = init;
 })();

@@ -9,6 +9,14 @@
   <body>
     <header class="topbar">
       <h1 class="topbar-title">形态学识图</h1>
+      <button
+        type="button"
+        class="btn auth-logout hidden"
+        id="authLogout"
+        title="清除本机登录状态（同设备多人共用时可点）"
+      >
+        退出登录
+      </button>
       <div class="topbar-toggles">
         <label class="toggle">
           <input type="checkbox" id="randomMode" />
@@ -129,6 +137,47 @@
       </p>
     </footer>
 
+    <div
+      id="authOverlay"
+      class="auth-overlay hidden"
+      role="dialog"
+      aria-modal="true"
+      aria-labelledby="authTitle"
+    >
+      <div class="auth-panel">
+        <h2 id="authTitle" class="auth-title">登录</h2>
+        <p class="auth-hint">请输入发放的账号与密码（关闭页签后需重新登录）</p>
+        <form id="authForm" class="auth-form" autocomplete="on">
+          <label class="auth-label">
+            <span>账号</span>
+            <input
+              type="text"
+              id="authUser"
+              name="username"
+              required
+              autocomplete="username"
+              autocapitalize="none"
+              spellcheck="false"
+            />
+          </label>
+          <label class="auth-label">
+            <span>密码</span>
+            <input
+              type="password"
+              id="authPass"
+              name="password"
+              required
+              autocomplete="current-password"
+            />
+          </label>
+          <p id="authError" class="auth-error hidden" role="alert"></p>
+          <button type="submit" class="btn primary auth-submit">进入</button>
+        </form>
+      </div>
+    </div>
+
+    <script src="auth-config.js"></script>
     <script src="app.js"></script>
+    <script src="auth.js"></script>
   </body>
 </html>
