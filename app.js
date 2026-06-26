@@ -634,6 +634,9 @@
 
     if (el.btnReveal) {
       el.btnReveal.disabled = !q;
+      el.btnReveal.title = q
+        ? ""
+        : "请先勾选顶栏「先隐藏答案」";
       el.btnReveal.textContent = revealed ? "隐藏答案" : "显示答案";
       el.btnReveal.setAttribute("aria-expanded", String(revealed || !q));
     }

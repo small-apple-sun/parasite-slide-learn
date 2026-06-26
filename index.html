@@ -24,7 +24,7 @@
         </label>
         <label class="toggle">
           <input type="checkbox" id="quizMode" />
-          <span>测验模式</span>
+          <span>先隐藏答案</span>
         </label>
         <label class="toggle">
           <input type="checkbox" id="reviewOnly" />
@@ -108,7 +108,9 @@
         </article>
 
         <div class="actions" id="appActions">
-          <button type="button" class="btn primary" id="btnReveal">显示答案</button>
+          <button type="button" class="btn primary" id="btnReveal" title="需勾选「先隐藏答案」后可切换">
+            显示答案
+          </button>
           <div class="know-row">
             <button type="button" class="btn btn-know-yes" id="btnKnow" title="快捷键 K">
               会了
@@ -131,7 +133,7 @@
     <footer class="page-footer">
       <p>
         顶部<strong>关键词</strong>可筛选题目（题号、名称、题干等；多个词用空格表示都要包含）。<strong>Esc</strong>
-        清空筛选。测验模式：隐藏题号与名称，点图或空格显示答案。方向键翻页，<strong>K</strong> 会了、<strong>N</strong>
+        清空筛选。勾选<strong>先隐藏答案</strong>后，题号与名称会先模糊，点图、空格或「显示答案」按钮再揭晓。方向键翻页，<strong>K</strong> 会了、<strong>N</strong>
         不会。双击离线打开需先运行
         <code>python3 tools/embed_slides.py</code> 生成 <code>data/slides.embed.js</code>。
       </p>
